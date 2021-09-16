@@ -1,0 +1,3780 @@
+
+2021-09-05 22:08:47: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 22:08:47: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 22:08:47: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 22:08:47: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 22:08:47: GLSL program 'default': 3, shaders: 2
+2021-09-05 22:08:47:   VertexShader: 1
+2021-09-05 22:08:47:   FragmentShader: 2
+2021-09-05 22:08:47: Attributes[ 5 ]:
+2021-09-05 22:08:47:   position: 0, FloatVec3, 1
+2021-09-05 22:08:47:   ptSize: 1, Float, 1
+2021-09-05 22:08:47:   texCoords: 2, FloatVec2, 1
+2021-09-05 22:08:47:   normal: 3, FloatVec3, 1
+2021-09-05 22:08:47:   color: 4, FloatVec3, 1
+2021-09-05 22:08:47: Uniforms[ 15 ]:
+2021-09-05 22:08:47:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 22:08:47:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 22:08:47:   sizeMul: 2, Float, 1
+2021-09-05 22:08:47:   lightPosition: 3, FloatVec3, 1
+2021-09-05 22:08:47:   eyePosition: 4, FloatVec3, 1
+2021-09-05 22:08:47:   useTexture: 5, Bool, 1
+2021-09-05 22:08:47:   texSurface: 6, Sampler2D, 1
+2021-09-05 22:08:47:   globalColor: 7, Bool, 1
+2021-09-05 22:08:47:   Ka: 8, FloatVec3, 1
+2021-09-05 22:08:47:   Kd: 9, FloatVec3, 1
+2021-09-05 22:08:47:   useNormal: 10, Bool, 1
+2021-09-05 22:08:47:   Ks: 11, FloatVec3, 1
+2021-09-05 22:08:47:   shininess: 12, Float, 1
+2021-09-05 22:08:47:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 22:08:47:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:05:00: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:05:00: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:05:00: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:05:00: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:05:00: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:05:00:   VertexShader: 1
+2021-09-05 23:05:00:   FragmentShader: 2
+2021-09-05 23:05:00: Attributes[ 5 ]:
+2021-09-05 23:05:00:   position: 0, FloatVec3, 1
+2021-09-05 23:05:00:   ptSize: 1, Float, 1
+2021-09-05 23:05:00:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:05:00:   normal: 3, FloatVec3, 1
+2021-09-05 23:05:00:   color: 4, FloatVec3, 1
+2021-09-05 23:05:00: Uniforms[ 15 ]:
+2021-09-05 23:05:00:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:05:00:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:05:00:   sizeMul: 2, Float, 1
+2021-09-05 23:05:00:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:05:00:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:05:00:   useTexture: 5, Bool, 1
+2021-09-05 23:05:00:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:05:00:   globalColor: 7, Bool, 1
+2021-09-05 23:05:00:   Ka: 8, FloatVec3, 1
+2021-09-05 23:05:00:   Kd: 9, FloatVec3, 1
+2021-09-05 23:05:00:   useNormal: 10, Bool, 1
+2021-09-05 23:05:00:   Ks: 11, FloatVec3, 1
+2021-09-05 23:05:00:   shininess: 12, Float, 1
+2021-09-05 23:05:00:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:05:00:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:06:39: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:06:39: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:06:39: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:06:39: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:06:39: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:06:39:   VertexShader: 1
+2021-09-05 23:06:39:   FragmentShader: 2
+2021-09-05 23:06:39: Attributes[ 5 ]:
+2021-09-05 23:06:39:   position: 0, FloatVec3, 1
+2021-09-05 23:06:39:   ptSize: 1, Float, 1
+2021-09-05 23:06:40:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:06:40:   normal: 3, FloatVec3, 1
+2021-09-05 23:06:40:   color: 4, FloatVec3, 1
+2021-09-05 23:06:40: Uniforms[ 15 ]:
+2021-09-05 23:06:40:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:06:40:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:06:40:   sizeMul: 2, Float, 1
+2021-09-05 23:06:40:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:06:40:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:06:40:   useTexture: 5, Bool, 1
+2021-09-05 23:06:40:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:06:40:   globalColor: 7, Bool, 1
+2021-09-05 23:06:40:   Ka: 8, FloatVec3, 1
+2021-09-05 23:06:40:   Kd: 9, FloatVec3, 1
+2021-09-05 23:06:40:   useNormal: 10, Bool, 1
+2021-09-05 23:06:40:   Ks: 11, FloatVec3, 1
+2021-09-05 23:06:40:   shininess: 12, Float, 1
+2021-09-05 23:06:40:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:06:40:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:09:03: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:09:03: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:09:03: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:09:03: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:09:03: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:09:03:   VertexShader: 1
+2021-09-05 23:09:03:   FragmentShader: 2
+2021-09-05 23:09:03: Attributes[ 5 ]:
+2021-09-05 23:09:03:   position: 0, FloatVec3, 1
+2021-09-05 23:09:03:   ptSize: 1, Float, 1
+2021-09-05 23:09:03:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:09:03:   normal: 3, FloatVec3, 1
+2021-09-05 23:09:03:   color: 4, FloatVec3, 1
+2021-09-05 23:09:03: Uniforms[ 15 ]:
+2021-09-05 23:09:03:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:09:03:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:09:03:   sizeMul: 2, Float, 1
+2021-09-05 23:09:03:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:09:03:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:09:03:   useTexture: 5, Bool, 1
+2021-09-05 23:09:03:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:09:03:   globalColor: 7, Bool, 1
+2021-09-05 23:09:03:   Ka: 8, FloatVec3, 1
+2021-09-05 23:09:03:   Kd: 9, FloatVec3, 1
+2021-09-05 23:09:03:   useNormal: 10, Bool, 1
+2021-09-05 23:09:03:   Ks: 11, FloatVec3, 1
+2021-09-05 23:09:03:   shininess: 12, Float, 1
+2021-09-05 23:09:03:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:09:03:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:09:46: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:09:46: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:09:46: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:09:46: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:09:46: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:09:46:   VertexShader: 1
+2021-09-05 23:09:46:   FragmentShader: 2
+2021-09-05 23:09:46: Attributes[ 5 ]:
+2021-09-05 23:09:46:   position: 0, FloatVec3, 1
+2021-09-05 23:09:46:   ptSize: 1, Float, 1
+2021-09-05 23:09:46:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:09:46:   normal: 3, FloatVec3, 1
+2021-09-05 23:09:46:   color: 4, FloatVec3, 1
+2021-09-05 23:09:46: Uniforms[ 15 ]:
+2021-09-05 23:09:46:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:09:46:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:09:46:   sizeMul: 2, Float, 1
+2021-09-05 23:09:46:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:09:46:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:09:46:   useTexture: 5, Bool, 1
+2021-09-05 23:09:46:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:09:46:   globalColor: 7, Bool, 1
+2021-09-05 23:09:46:   Ka: 8, FloatVec3, 1
+2021-09-05 23:09:46:   Kd: 9, FloatVec3, 1
+2021-09-05 23:09:46:   useNormal: 10, Bool, 1
+2021-09-05 23:09:46:   Ks: 11, FloatVec3, 1
+2021-09-05 23:09:46:   shininess: 12, Float, 1
+2021-09-05 23:09:46:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:09:46:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:11:20: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:11:20: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:11:20: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:11:20: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:11:20: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:11:20:   VertexShader: 1
+2021-09-05 23:11:20:   FragmentShader: 2
+2021-09-05 23:11:20: Attributes[ 5 ]:
+2021-09-05 23:11:20:   position: 0, FloatVec3, 1
+2021-09-05 23:11:20:   ptSize: 1, Float, 1
+2021-09-05 23:11:20:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:11:20:   normal: 3, FloatVec3, 1
+2021-09-05 23:11:20:   color: 4, FloatVec3, 1
+2021-09-05 23:11:20: Uniforms[ 15 ]:
+2021-09-05 23:11:20:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:11:20:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:11:20:   sizeMul: 2, Float, 1
+2021-09-05 23:11:20:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:11:20:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:11:20:   useTexture: 5, Bool, 1
+2021-09-05 23:11:20:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:11:20:   globalColor: 7, Bool, 1
+2021-09-05 23:11:20:   Ka: 8, FloatVec3, 1
+2021-09-05 23:11:20:   Kd: 9, FloatVec3, 1
+2021-09-05 23:11:20:   useNormal: 10, Bool, 1
+2021-09-05 23:11:20:   Ks: 11, FloatVec3, 1
+2021-09-05 23:11:20:   shininess: 12, Float, 1
+2021-09-05 23:11:20:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:11:20:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:13:28: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:13:28: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:13:28: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:13:28: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:13:28: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:13:28:   VertexShader: 1
+2021-09-05 23:13:28:   FragmentShader: 2
+2021-09-05 23:13:28: Attributes[ 5 ]:
+2021-09-05 23:13:28:   position: 0, FloatVec3, 1
+2021-09-05 23:13:28:   ptSize: 1, Float, 1
+2021-09-05 23:13:28:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:13:28:   normal: 3, FloatVec3, 1
+2021-09-05 23:13:28:   color: 4, FloatVec3, 1
+2021-09-05 23:13:28: Uniforms[ 15 ]:
+2021-09-05 23:13:28:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:13:28:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:13:28:   sizeMul: 2, Float, 1
+2021-09-05 23:13:28:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:13:28:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:13:28:   useTexture: 5, Bool, 1
+2021-09-05 23:13:28:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:13:28:   globalColor: 7, Bool, 1
+2021-09-05 23:13:28:   Ka: 8, FloatVec3, 1
+2021-09-05 23:13:28:   Kd: 9, FloatVec3, 1
+2021-09-05 23:13:28:   useNormal: 10, Bool, 1
+2021-09-05 23:13:28:   Ks: 11, FloatVec3, 1
+2021-09-05 23:13:28:   shininess: 12, Float, 1
+2021-09-05 23:13:28:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:13:28:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:21:29: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:21:29: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:21:29: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:21:29: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:21:29: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:21:29:   VertexShader: 1
+2021-09-05 23:21:29:   FragmentShader: 2
+2021-09-05 23:21:29: Attributes[ 5 ]:
+2021-09-05 23:21:29:   position: 0, FloatVec3, 1
+2021-09-05 23:21:29:   ptSize: 1, Float, 1
+2021-09-05 23:21:29:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:21:29:   normal: 3, FloatVec3, 1
+2021-09-05 23:21:29:   color: 4, FloatVec3, 1
+2021-09-05 23:21:29: Uniforms[ 15 ]:
+2021-09-05 23:21:29:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:21:29:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:21:29:   sizeMul: 2, Float, 1
+2021-09-05 23:21:29:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:21:29:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:21:29:   useTexture: 5, Bool, 1
+2021-09-05 23:21:29:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:21:29:   globalColor: 7, Bool, 1
+2021-09-05 23:21:29:   Ka: 8, FloatVec3, 1
+2021-09-05 23:21:29:   Kd: 9, FloatVec3, 1
+2021-09-05 23:21:29:   useNormal: 10, Bool, 1
+2021-09-05 23:21:29:   Ks: 11, FloatVec3, 1
+2021-09-05 23:21:29:   shininess: 12, Float, 1
+2021-09-05 23:21:29:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:21:29:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:31:27: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:31:27: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:31:27: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:31:27: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:31:27: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:31:27:   VertexShader: 1
+2021-09-05 23:31:27:   FragmentShader: 2
+2021-09-05 23:31:27: Attributes[ 5 ]:
+2021-09-05 23:31:27:   position: 0, FloatVec3, 1
+2021-09-05 23:31:27:   ptSize: 1, Float, 1
+2021-09-05 23:31:27:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:31:27:   normal: 3, FloatVec3, 1
+2021-09-05 23:31:27:   color: 4, FloatVec3, 1
+2021-09-05 23:31:27: Uniforms[ 15 ]:
+2021-09-05 23:31:27:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:31:27:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:31:27:   sizeMul: 2, Float, 1
+2021-09-05 23:31:27:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:31:27:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:31:27:   useTexture: 5, Bool, 1
+2021-09-05 23:31:27:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:31:27:   globalColor: 7, Bool, 1
+2021-09-05 23:31:27:   Ka: 8, FloatVec3, 1
+2021-09-05 23:31:27:   Kd: 9, FloatVec3, 1
+2021-09-05 23:31:27:   useNormal: 10, Bool, 1
+2021-09-05 23:31:27:   Ks: 11, FloatVec3, 1
+2021-09-05 23:31:27:   shininess: 12, Float, 1
+2021-09-05 23:31:27:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:31:27:   lightColor: 14, FloatVec3, 1
+
+2021-09-05 23:32:17: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-05 23:32:17: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-05 23:32:17: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-05 23:32:17: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-05 23:32:17: GLSL program 'default': 3, shaders: 2
+2021-09-05 23:32:17:   VertexShader: 1
+2021-09-05 23:32:17:   FragmentShader: 2
+2021-09-05 23:32:17: Attributes[ 5 ]:
+2021-09-05 23:32:17:   position: 0, FloatVec3, 1
+2021-09-05 23:32:17:   ptSize: 1, Float, 1
+2021-09-05 23:32:17:   texCoords: 2, FloatVec2, 1
+2021-09-05 23:32:17:   normal: 3, FloatVec3, 1
+2021-09-05 23:32:17:   color: 4, FloatVec3, 1
+2021-09-05 23:32:17: Uniforms[ 15 ]:
+2021-09-05 23:32:17:   matrixProjection: 0, FloatMat4, 1
+2021-09-05 23:32:17:   matrixModelView: 1, FloatMat4, 1
+2021-09-05 23:32:17:   sizeMul: 2, Float, 1
+2021-09-05 23:32:17:   lightPosition: 3, FloatVec3, 1
+2021-09-05 23:32:17:   eyePosition: 4, FloatVec3, 1
+2021-09-05 23:32:17:   useTexture: 5, Bool, 1
+2021-09-05 23:32:17:   texSurface: 6, Sampler2D, 1
+2021-09-05 23:32:17:   globalColor: 7, Bool, 1
+2021-09-05 23:32:17:   Ka: 8, FloatVec3, 1
+2021-09-05 23:32:17:   Kd: 9, FloatVec3, 1
+2021-09-05 23:32:17:   useNormal: 10, Bool, 1
+2021-09-05 23:32:17:   Ks: 11, FloatVec3, 1
+2021-09-05 23:32:17:   shininess: 12, Float, 1
+2021-09-05 23:32:17:   globalAmbient: 13, FloatVec3, 1
+2021-09-05 23:32:17:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 00:42:31: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 00:42:31: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 00:42:31: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 00:42:31: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 00:42:31: GLSL program 'default': 3, shaders: 2
+2021-09-06 00:42:31:   VertexShader: 1
+2021-09-06 00:42:31:   FragmentShader: 2
+2021-09-06 00:42:31: Attributes[ 5 ]:
+2021-09-06 00:42:31:   position: 0, FloatVec3, 1
+2021-09-06 00:42:31:   ptSize: 1, Float, 1
+2021-09-06 00:42:31:   texCoords: 2, FloatVec2, 1
+2021-09-06 00:42:31:   normal: 3, FloatVec3, 1
+2021-09-06 00:42:31:   color: 4, FloatVec3, 1
+2021-09-06 00:42:31: Uniforms[ 15 ]:
+2021-09-06 00:42:31:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 00:42:31:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 00:42:31:   sizeMul: 2, Float, 1
+2021-09-06 00:42:31:   lightPosition: 3, FloatVec3, 1
+2021-09-06 00:42:31:   eyePosition: 4, FloatVec3, 1
+2021-09-06 00:42:31:   useTexture: 5, Bool, 1
+2021-09-06 00:42:31:   texSurface: 6, Sampler2D, 1
+2021-09-06 00:42:31:   globalColor: 7, Bool, 1
+2021-09-06 00:42:31:   Ka: 8, FloatVec3, 1
+2021-09-06 00:42:31:   Kd: 9, FloatVec3, 1
+2021-09-06 00:42:31:   useNormal: 10, Bool, 1
+2021-09-06 00:42:31:   Ks: 11, FloatVec3, 1
+2021-09-06 00:42:31:   shininess: 12, Float, 1
+2021-09-06 00:42:31:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 00:42:31:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 00:43:58: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 00:43:58: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 00:43:58: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 00:43:58: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 00:43:58: GLSL program 'default': 3, shaders: 2
+2021-09-06 00:43:58:   VertexShader: 1
+2021-09-06 00:43:58:   FragmentShader: 2
+2021-09-06 00:43:58: Attributes[ 5 ]:
+2021-09-06 00:43:58:   position: 0, FloatVec3, 1
+2021-09-06 00:43:58:   ptSize: 1, Float, 1
+2021-09-06 00:43:58:   texCoords: 2, FloatVec2, 1
+2021-09-06 00:43:58:   normal: 3, FloatVec3, 1
+2021-09-06 00:43:58:   color: 4, FloatVec3, 1
+2021-09-06 00:43:58: Uniforms[ 15 ]:
+2021-09-06 00:43:58:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 00:43:58:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 00:43:58:   sizeMul: 2, Float, 1
+2021-09-06 00:43:58:   lightPosition: 3, FloatVec3, 1
+2021-09-06 00:43:58:   eyePosition: 4, FloatVec3, 1
+2021-09-06 00:43:58:   useTexture: 5, Bool, 1
+2021-09-06 00:43:58:   texSurface: 6, Sampler2D, 1
+2021-09-06 00:43:58:   globalColor: 7, Bool, 1
+2021-09-06 00:43:58:   Ka: 8, FloatVec3, 1
+2021-09-06 00:43:58:   Kd: 9, FloatVec3, 1
+2021-09-06 00:43:58:   useNormal: 10, Bool, 1
+2021-09-06 00:43:58:   Ks: 11, FloatVec3, 1
+2021-09-06 00:43:58:   shininess: 12, Float, 1
+2021-09-06 00:43:58:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 00:43:58:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 00:45:39: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 00:45:39: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 00:45:39: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 00:45:39: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 00:45:39: GLSL program 'default': 3, shaders: 2
+2021-09-06 00:45:39:   VertexShader: 1
+2021-09-06 00:45:39:   FragmentShader: 2
+2021-09-06 00:45:39: Attributes[ 5 ]:
+2021-09-06 00:45:39:   position: 0, FloatVec3, 1
+2021-09-06 00:45:39:   ptSize: 1, Float, 1
+2021-09-06 00:45:39:   texCoords: 2, FloatVec2, 1
+2021-09-06 00:45:39:   normal: 3, FloatVec3, 1
+2021-09-06 00:45:39:   color: 4, FloatVec3, 1
+2021-09-06 00:45:39: Uniforms[ 15 ]:
+2021-09-06 00:45:39:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 00:45:39:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 00:45:39:   sizeMul: 2, Float, 1
+2021-09-06 00:45:39:   lightPosition: 3, FloatVec3, 1
+2021-09-06 00:45:39:   eyePosition: 4, FloatVec3, 1
+2021-09-06 00:45:39:   useTexture: 5, Bool, 1
+2021-09-06 00:45:39:   texSurface: 6, Sampler2D, 1
+2021-09-06 00:45:39:   globalColor: 7, Bool, 1
+2021-09-06 00:45:39:   Ka: 8, FloatVec3, 1
+2021-09-06 00:45:39:   Kd: 9, FloatVec3, 1
+2021-09-06 00:45:39:   useNormal: 10, Bool, 1
+2021-09-06 00:45:39:   Ks: 11, FloatVec3, 1
+2021-09-06 00:45:39:   shininess: 12, Float, 1
+2021-09-06 00:45:39:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 00:45:39:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 00:57:21: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 00:57:21: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 00:57:21: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 00:57:21: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 00:57:21: GLSL program 'default': 3, shaders: 2
+2021-09-06 00:57:21:   VertexShader: 1
+2021-09-06 00:57:21:   FragmentShader: 2
+2021-09-06 00:57:21: Attributes[ 5 ]:
+2021-09-06 00:57:21:   position: 0, FloatVec3, 1
+2021-09-06 00:57:21:   ptSize: 1, Float, 1
+2021-09-06 00:57:21:   texCoords: 2, FloatVec2, 1
+2021-09-06 00:57:21:   normal: 3, FloatVec3, 1
+2021-09-06 00:57:21:   color: 4, FloatVec3, 1
+2021-09-06 00:57:21: Uniforms[ 15 ]:
+2021-09-06 00:57:21:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 00:57:21:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 00:57:21:   sizeMul: 2, Float, 1
+2021-09-06 00:57:21:   lightPosition: 3, FloatVec3, 1
+2021-09-06 00:57:21:   eyePosition: 4, FloatVec3, 1
+2021-09-06 00:57:21:   useTexture: 5, Bool, 1
+2021-09-06 00:57:21:   texSurface: 6, Sampler2D, 1
+2021-09-06 00:57:21:   globalColor: 7, Bool, 1
+2021-09-06 00:57:21:   Ka: 8, FloatVec3, 1
+2021-09-06 00:57:21:   Kd: 9, FloatVec3, 1
+2021-09-06 00:57:21:   useNormal: 10, Bool, 1
+2021-09-06 00:57:21:   Ks: 11, FloatVec3, 1
+2021-09-06 00:57:21:   shininess: 12, Float, 1
+2021-09-06 00:57:21:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 00:57:21:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 01:03:36: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 01:03:36: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 01:03:36: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 01:03:36: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 01:03:36: GLSL program 'default': 3, shaders: 2
+2021-09-06 01:03:36:   VertexShader: 1
+2021-09-06 01:03:36:   FragmentShader: 2
+2021-09-06 01:03:36: Attributes[ 5 ]:
+2021-09-06 01:03:36:   position: 0, FloatVec3, 1
+2021-09-06 01:03:36:   ptSize: 1, Float, 1
+2021-09-06 01:03:36:   texCoords: 2, FloatVec2, 1
+2021-09-06 01:03:36:   normal: 3, FloatVec3, 1
+2021-09-06 01:03:36:   color: 4, FloatVec3, 1
+2021-09-06 01:03:36: Uniforms[ 15 ]:
+2021-09-06 01:03:36:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 01:03:36:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 01:03:36:   sizeMul: 2, Float, 1
+2021-09-06 01:03:36:   lightPosition: 3, FloatVec3, 1
+2021-09-06 01:03:36:   eyePosition: 4, FloatVec3, 1
+2021-09-06 01:03:36:   useTexture: 5, Bool, 1
+2021-09-06 01:03:36:   texSurface: 6, Sampler2D, 1
+2021-09-06 01:03:36:   globalColor: 7, Bool, 1
+2021-09-06 01:03:36:   Ka: 8, FloatVec3, 1
+2021-09-06 01:03:36:   Kd: 9, FloatVec3, 1
+2021-09-06 01:03:36:   useNormal: 10, Bool, 1
+2021-09-06 01:03:36:   Ks: 11, FloatVec3, 1
+2021-09-06 01:03:36:   shininess: 12, Float, 1
+2021-09-06 01:03:36:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 01:03:36:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 01:06:48: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 01:06:48: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 01:06:48: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 01:06:48: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 01:06:48: GLSL program 'default': 3, shaders: 2
+2021-09-06 01:06:48:   VertexShader: 1
+2021-09-06 01:06:48:   FragmentShader: 2
+2021-09-06 01:06:48: Attributes[ 5 ]:
+2021-09-06 01:06:48:   position: 0, FloatVec3, 1
+2021-09-06 01:06:48:   ptSize: 1, Float, 1
+2021-09-06 01:06:48:   texCoords: 2, FloatVec2, 1
+2021-09-06 01:06:48:   normal: 3, FloatVec3, 1
+2021-09-06 01:06:48:   color: 4, FloatVec3, 1
+2021-09-06 01:06:48: Uniforms[ 15 ]:
+2021-09-06 01:06:48:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 01:06:48:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 01:06:48:   sizeMul: 2, Float, 1
+2021-09-06 01:06:48:   lightPosition: 3, FloatVec3, 1
+2021-09-06 01:06:48:   eyePosition: 4, FloatVec3, 1
+2021-09-06 01:06:48:   useTexture: 5, Bool, 1
+2021-09-06 01:06:48:   texSurface: 6, Sampler2D, 1
+2021-09-06 01:06:48:   globalColor: 7, Bool, 1
+2021-09-06 01:06:48:   Ka: 8, FloatVec3, 1
+2021-09-06 01:06:48:   Kd: 9, FloatVec3, 1
+2021-09-06 01:06:48:   useNormal: 10, Bool, 1
+2021-09-06 01:06:48:   Ks: 11, FloatVec3, 1
+2021-09-06 01:06:48:   shininess: 12, Float, 1
+2021-09-06 01:06:48:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 01:06:48:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 01:09:42: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 01:09:42: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 01:09:42: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 01:09:42: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 01:09:43: GLSL program 'default': 3, shaders: 2
+2021-09-06 01:09:43:   VertexShader: 1
+2021-09-06 01:09:43:   FragmentShader: 2
+2021-09-06 01:09:43: Attributes[ 5 ]:
+2021-09-06 01:09:43:   position: 0, FloatVec3, 1
+2021-09-06 01:09:43:   ptSize: 1, Float, 1
+2021-09-06 01:09:43:   texCoords: 2, FloatVec2, 1
+2021-09-06 01:09:43:   normal: 3, FloatVec3, 1
+2021-09-06 01:09:43:   color: 4, FloatVec3, 1
+2021-09-06 01:09:43: Uniforms[ 15 ]:
+2021-09-06 01:09:43:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 01:09:43:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 01:09:43:   sizeMul: 2, Float, 1
+2021-09-06 01:09:43:   lightPosition: 3, FloatVec3, 1
+2021-09-06 01:09:43:   eyePosition: 4, FloatVec3, 1
+2021-09-06 01:09:43:   useTexture: 5, Bool, 1
+2021-09-06 01:09:43:   texSurface: 6, Sampler2D, 1
+2021-09-06 01:09:43:   globalColor: 7, Bool, 1
+2021-09-06 01:09:43:   Ka: 8, FloatVec3, 1
+2021-09-06 01:09:43:   Kd: 9, FloatVec3, 1
+2021-09-06 01:09:43:   useNormal: 10, Bool, 1
+2021-09-06 01:09:43:   Ks: 11, FloatVec3, 1
+2021-09-06 01:09:43:   shininess: 12, Float, 1
+2021-09-06 01:09:43:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 01:09:43:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:07:59: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:07:59: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:07:59: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:07:59: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:07:59: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:07:59:   VertexShader: 1
+2021-09-06 03:07:59:   FragmentShader: 2
+2021-09-06 03:07:59: Attributes[ 5 ]:
+2021-09-06 03:07:59:   position: 0, FloatVec3, 1
+2021-09-06 03:07:59:   ptSize: 1, Float, 1
+2021-09-06 03:07:59:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:07:59:   normal: 3, FloatVec3, 1
+2021-09-06 03:07:59:   color: 4, FloatVec3, 1
+2021-09-06 03:07:59: Uniforms[ 15 ]:
+2021-09-06 03:07:59:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:07:59:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:07:59:   sizeMul: 2, Float, 1
+2021-09-06 03:07:59:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:07:59:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:07:59:   useTexture: 5, Bool, 1
+2021-09-06 03:07:59:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:07:59:   globalColor: 7, Bool, 1
+2021-09-06 03:07:59:   Ka: 8, FloatVec3, 1
+2021-09-06 03:07:59:   Kd: 9, FloatVec3, 1
+2021-09-06 03:07:59:   useNormal: 10, Bool, 1
+2021-09-06 03:07:59:   Ks: 11, FloatVec3, 1
+2021-09-06 03:07:59:   shininess: 12, Float, 1
+2021-09-06 03:07:59:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:07:59:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:18:50: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:18:50: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:18:50: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:18:50: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:18:50: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:18:50:   VertexShader: 1
+2021-09-06 03:18:50:   FragmentShader: 2
+2021-09-06 03:18:50: Attributes[ 5 ]:
+2021-09-06 03:18:50:   position: 0, FloatVec3, 1
+2021-09-06 03:18:50:   ptSize: 1, Float, 1
+2021-09-06 03:18:50:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:18:50:   normal: 3, FloatVec3, 1
+2021-09-06 03:18:50:   color: 4, FloatVec3, 1
+2021-09-06 03:18:50: Uniforms[ 15 ]:
+2021-09-06 03:18:50:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:18:50:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:18:50:   sizeMul: 2, Float, 1
+2021-09-06 03:18:50:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:18:50:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:18:50:   useTexture: 5, Bool, 1
+2021-09-06 03:18:50:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:18:50:   globalColor: 7, Bool, 1
+2021-09-06 03:18:50:   Ka: 8, FloatVec3, 1
+2021-09-06 03:18:50:   Kd: 9, FloatVec3, 1
+2021-09-06 03:18:50:   useNormal: 10, Bool, 1
+2021-09-06 03:18:50:   Ks: 11, FloatVec3, 1
+2021-09-06 03:18:50:   shininess: 12, Float, 1
+2021-09-06 03:18:50:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:18:50:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:25:07: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:25:07: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:25:07: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:25:07: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:25:07: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:25:07:   VertexShader: 1
+2021-09-06 03:25:07:   FragmentShader: 2
+2021-09-06 03:25:07: Attributes[ 5 ]:
+2021-09-06 03:25:07:   position: 0, FloatVec3, 1
+2021-09-06 03:25:07:   ptSize: 1, Float, 1
+2021-09-06 03:25:07:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:25:07:   normal: 3, FloatVec3, 1
+2021-09-06 03:25:07:   color: 4, FloatVec3, 1
+2021-09-06 03:25:07: Uniforms[ 15 ]:
+2021-09-06 03:25:07:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:25:07:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:25:07:   sizeMul: 2, Float, 1
+2021-09-06 03:25:07:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:25:07:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:25:07:   useTexture: 5, Bool, 1
+2021-09-06 03:25:07:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:25:07:   globalColor: 7, Bool, 1
+2021-09-06 03:25:07:   Ka: 8, FloatVec3, 1
+2021-09-06 03:25:07:   Kd: 9, FloatVec3, 1
+2021-09-06 03:25:07:   useNormal: 10, Bool, 1
+2021-09-06 03:25:07:   Ks: 11, FloatVec3, 1
+2021-09-06 03:25:07:   shininess: 12, Float, 1
+2021-09-06 03:25:07:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:25:07:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:26:23: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:26:23: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:26:23: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:26:23: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:26:23: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:26:23:   VertexShader: 1
+2021-09-06 03:26:23:   FragmentShader: 2
+2021-09-06 03:26:23: Attributes[ 5 ]:
+2021-09-06 03:26:23:   position: 0, FloatVec3, 1
+2021-09-06 03:26:23:   ptSize: 1, Float, 1
+2021-09-06 03:26:23:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:26:23:   normal: 3, FloatVec3, 1
+2021-09-06 03:26:23:   color: 4, FloatVec3, 1
+2021-09-06 03:26:23: Uniforms[ 15 ]:
+2021-09-06 03:26:23:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:26:23:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:26:23:   sizeMul: 2, Float, 1
+2021-09-06 03:26:23:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:26:23:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:26:23:   useTexture: 5, Bool, 1
+2021-09-06 03:26:23:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:26:23:   globalColor: 7, Bool, 1
+2021-09-06 03:26:23:   Ka: 8, FloatVec3, 1
+2021-09-06 03:26:23:   Kd: 9, FloatVec3, 1
+2021-09-06 03:26:23:   useNormal: 10, Bool, 1
+2021-09-06 03:26:23:   Ks: 11, FloatVec3, 1
+2021-09-06 03:26:23:   shininess: 12, Float, 1
+2021-09-06 03:26:23:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:26:23:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:27:46: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:27:46: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:27:46: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:27:46: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:27:46: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:27:46:   VertexShader: 1
+2021-09-06 03:27:46:   FragmentShader: 2
+2021-09-06 03:27:46: Attributes[ 5 ]:
+2021-09-06 03:27:46:   position: 0, FloatVec3, 1
+2021-09-06 03:27:46:   ptSize: 1, Float, 1
+2021-09-06 03:27:46:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:27:46:   normal: 3, FloatVec3, 1
+2021-09-06 03:27:46:   color: 4, FloatVec3, 1
+2021-09-06 03:27:46: Uniforms[ 15 ]:
+2021-09-06 03:27:46:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:27:46:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:27:46:   sizeMul: 2, Float, 1
+2021-09-06 03:27:46:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:27:46:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:27:46:   useTexture: 5, Bool, 1
+2021-09-06 03:27:46:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:27:46:   globalColor: 7, Bool, 1
+2021-09-06 03:27:46:   Ka: 8, FloatVec3, 1
+2021-09-06 03:27:46:   Kd: 9, FloatVec3, 1
+2021-09-06 03:27:46:   useNormal: 10, Bool, 1
+2021-09-06 03:27:46:   Ks: 11, FloatVec3, 1
+2021-09-06 03:27:46:   shininess: 12, Float, 1
+2021-09-06 03:27:46:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:27:46:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:28:05: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:28:05: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:28:05: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:28:05: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:28:05: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:28:05:   VertexShader: 1
+2021-09-06 03:28:05:   FragmentShader: 2
+2021-09-06 03:28:05: Attributes[ 5 ]:
+2021-09-06 03:28:05:   position: 0, FloatVec3, 1
+2021-09-06 03:28:05:   ptSize: 1, Float, 1
+2021-09-06 03:28:05:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:28:05:   normal: 3, FloatVec3, 1
+2021-09-06 03:28:05:   color: 4, FloatVec3, 1
+2021-09-06 03:28:05: Uniforms[ 15 ]:
+2021-09-06 03:28:05:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:28:05:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:28:05:   sizeMul: 2, Float, 1
+2021-09-06 03:28:05:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:28:05:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:28:05:   useTexture: 5, Bool, 1
+2021-09-06 03:28:05:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:28:05:   globalColor: 7, Bool, 1
+2021-09-06 03:28:05:   Ka: 8, FloatVec3, 1
+2021-09-06 03:28:05:   Kd: 9, FloatVec3, 1
+2021-09-06 03:28:05:   useNormal: 10, Bool, 1
+2021-09-06 03:28:05:   Ks: 11, FloatVec3, 1
+2021-09-06 03:28:05:   shininess: 12, Float, 1
+2021-09-06 03:28:05:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:28:05:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:29:45: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:29:45: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:29:45: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:29:45: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:29:45: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:29:45:   VertexShader: 1
+2021-09-06 03:29:45:   FragmentShader: 2
+2021-09-06 03:29:45: Attributes[ 5 ]:
+2021-09-06 03:29:45:   position: 0, FloatVec3, 1
+2021-09-06 03:29:45:   ptSize: 1, Float, 1
+2021-09-06 03:29:45:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:29:45:   normal: 3, FloatVec3, 1
+2021-09-06 03:29:45:   color: 4, FloatVec3, 1
+2021-09-06 03:29:45: Uniforms[ 15 ]:
+2021-09-06 03:29:45:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:29:45:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:29:45:   sizeMul: 2, Float, 1
+2021-09-06 03:29:45:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:29:45:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:29:45:   useTexture: 5, Bool, 1
+2021-09-06 03:29:45:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:29:45:   globalColor: 7, Bool, 1
+2021-09-06 03:29:45:   Ka: 8, FloatVec3, 1
+2021-09-06 03:29:45:   Kd: 9, FloatVec3, 1
+2021-09-06 03:29:45:   useNormal: 10, Bool, 1
+2021-09-06 03:29:45:   Ks: 11, FloatVec3, 1
+2021-09-06 03:29:45:   shininess: 12, Float, 1
+2021-09-06 03:29:45:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:29:45:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:31:52: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:31:52: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:31:52: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:31:52: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:31:52: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:31:52:   VertexShader: 1
+2021-09-06 03:31:52:   FragmentShader: 2
+2021-09-06 03:31:52: Attributes[ 5 ]:
+2021-09-06 03:31:52:   position: 0, FloatVec3, 1
+2021-09-06 03:31:52:   ptSize: 1, Float, 1
+2021-09-06 03:31:52:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:31:52:   normal: 3, FloatVec3, 1
+2021-09-06 03:31:52:   color: 4, FloatVec3, 1
+2021-09-06 03:31:52: Uniforms[ 15 ]:
+2021-09-06 03:31:52:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:31:52:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:31:52:   sizeMul: 2, Float, 1
+2021-09-06 03:31:52:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:31:52:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:31:52:   useTexture: 5, Bool, 1
+2021-09-06 03:31:52:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:31:52:   globalColor: 7, Bool, 1
+2021-09-06 03:31:52:   Ka: 8, FloatVec3, 1
+2021-09-06 03:31:52:   Kd: 9, FloatVec3, 1
+2021-09-06 03:31:52:   useNormal: 10, Bool, 1
+2021-09-06 03:31:52:   Ks: 11, FloatVec3, 1
+2021-09-06 03:31:52:   shininess: 12, Float, 1
+2021-09-06 03:31:52:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:31:52:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:32:22: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:32:22: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:32:22: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:32:22: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:32:22: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:32:22:   VertexShader: 1
+2021-09-06 03:32:22:   FragmentShader: 2
+2021-09-06 03:32:22: Attributes[ 5 ]:
+2021-09-06 03:32:22:   position: 0, FloatVec3, 1
+2021-09-06 03:32:22:   ptSize: 1, Float, 1
+2021-09-06 03:32:22:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:32:22:   normal: 3, FloatVec3, 1
+2021-09-06 03:32:22:   color: 4, FloatVec3, 1
+2021-09-06 03:32:22: Uniforms[ 15 ]:
+2021-09-06 03:32:22:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:32:22:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:32:22:   sizeMul: 2, Float, 1
+2021-09-06 03:32:22:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:32:22:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:32:22:   useTexture: 5, Bool, 1
+2021-09-06 03:32:22:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:32:22:   globalColor: 7, Bool, 1
+2021-09-06 03:32:22:   Ka: 8, FloatVec3, 1
+2021-09-06 03:32:22:   Kd: 9, FloatVec3, 1
+2021-09-06 03:32:22:   useNormal: 10, Bool, 1
+2021-09-06 03:32:22:   Ks: 11, FloatVec3, 1
+2021-09-06 03:32:22:   shininess: 12, Float, 1
+2021-09-06 03:32:22:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:32:22:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:33:04: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:33:04: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:33:04: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:33:04: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:33:05: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:33:05:   VertexShader: 1
+2021-09-06 03:33:05:   FragmentShader: 2
+2021-09-06 03:33:05: Attributes[ 5 ]:
+2021-09-06 03:33:05:   position: 0, FloatVec3, 1
+2021-09-06 03:33:05:   ptSize: 1, Float, 1
+2021-09-06 03:33:05:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:33:05:   normal: 3, FloatVec3, 1
+2021-09-06 03:33:05:   color: 4, FloatVec3, 1
+2021-09-06 03:33:05: Uniforms[ 15 ]:
+2021-09-06 03:33:05:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:33:05:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:33:05:   sizeMul: 2, Float, 1
+2021-09-06 03:33:05:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:33:05:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:33:05:   useTexture: 5, Bool, 1
+2021-09-06 03:33:05:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:33:05:   globalColor: 7, Bool, 1
+2021-09-06 03:33:05:   Ka: 8, FloatVec3, 1
+2021-09-06 03:33:05:   Kd: 9, FloatVec3, 1
+2021-09-06 03:33:05:   useNormal: 10, Bool, 1
+2021-09-06 03:33:05:   Ks: 11, FloatVec3, 1
+2021-09-06 03:33:05:   shininess: 12, Float, 1
+2021-09-06 03:33:05:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:33:05:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:33:47: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:33:47: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:33:47: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:33:47: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:33:47: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:33:47:   VertexShader: 1
+2021-09-06 03:33:47:   FragmentShader: 2
+2021-09-06 03:33:47: Attributes[ 5 ]:
+2021-09-06 03:33:47:   position: 0, FloatVec3, 1
+2021-09-06 03:33:47:   ptSize: 1, Float, 1
+2021-09-06 03:33:47:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:33:47:   normal: 3, FloatVec3, 1
+2021-09-06 03:33:47:   color: 4, FloatVec3, 1
+2021-09-06 03:33:47: Uniforms[ 15 ]:
+2021-09-06 03:33:47:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:33:47:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:33:47:   sizeMul: 2, Float, 1
+2021-09-06 03:33:47:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:33:47:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:33:47:   useTexture: 5, Bool, 1
+2021-09-06 03:33:47:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:33:47:   globalColor: 7, Bool, 1
+2021-09-06 03:33:47:   Ka: 8, FloatVec3, 1
+2021-09-06 03:33:47:   Kd: 9, FloatVec3, 1
+2021-09-06 03:33:47:   useNormal: 10, Bool, 1
+2021-09-06 03:33:47:   Ks: 11, FloatVec3, 1
+2021-09-06 03:33:47:   shininess: 12, Float, 1
+2021-09-06 03:33:47:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:33:47:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:34:11: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:34:11: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:34:11: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:34:11: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:34:11: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:34:11:   VertexShader: 1
+2021-09-06 03:34:11:   FragmentShader: 2
+2021-09-06 03:34:11: Attributes[ 5 ]:
+2021-09-06 03:34:11:   position: 0, FloatVec3, 1
+2021-09-06 03:34:11:   ptSize: 1, Float, 1
+2021-09-06 03:34:11:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:34:11:   normal: 3, FloatVec3, 1
+2021-09-06 03:34:11:   color: 4, FloatVec3, 1
+2021-09-06 03:34:11: Uniforms[ 15 ]:
+2021-09-06 03:34:11:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:34:11:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:34:11:   sizeMul: 2, Float, 1
+2021-09-06 03:34:11:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:34:11:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:34:11:   useTexture: 5, Bool, 1
+2021-09-06 03:34:11:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:34:11:   globalColor: 7, Bool, 1
+2021-09-06 03:34:11:   Ka: 8, FloatVec3, 1
+2021-09-06 03:34:11:   Kd: 9, FloatVec3, 1
+2021-09-06 03:34:11:   useNormal: 10, Bool, 1
+2021-09-06 03:34:11:   Ks: 11, FloatVec3, 1
+2021-09-06 03:34:11:   shininess: 12, Float, 1
+2021-09-06 03:34:11:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:34:11:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:34:50: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:34:50: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:34:50: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:34:50: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:34:50: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:34:50:   VertexShader: 1
+2021-09-06 03:34:50:   FragmentShader: 2
+2021-09-06 03:34:50: Attributes[ 5 ]:
+2021-09-06 03:34:50:   position: 0, FloatVec3, 1
+2021-09-06 03:34:50:   ptSize: 1, Float, 1
+2021-09-06 03:34:50:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:34:50:   normal: 3, FloatVec3, 1
+2021-09-06 03:34:50:   color: 4, FloatVec3, 1
+2021-09-06 03:34:50: Uniforms[ 15 ]:
+2021-09-06 03:34:50:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:34:50:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:34:50:   sizeMul: 2, Float, 1
+2021-09-06 03:34:50:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:34:50:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:34:50:   useTexture: 5, Bool, 1
+2021-09-06 03:34:50:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:34:50:   globalColor: 7, Bool, 1
+2021-09-06 03:34:50:   Ka: 8, FloatVec3, 1
+2021-09-06 03:34:50:   Kd: 9, FloatVec3, 1
+2021-09-06 03:34:50:   useNormal: 10, Bool, 1
+2021-09-06 03:34:50:   Ks: 11, FloatVec3, 1
+2021-09-06 03:34:50:   shininess: 12, Float, 1
+2021-09-06 03:34:50:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:34:50:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:35:05: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:35:05: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:35:05: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:35:05: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:35:05: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:35:05:   VertexShader: 1
+2021-09-06 03:35:05:   FragmentShader: 2
+2021-09-06 03:35:05: Attributes[ 5 ]:
+2021-09-06 03:35:05:   position: 0, FloatVec3, 1
+2021-09-06 03:35:05:   ptSize: 1, Float, 1
+2021-09-06 03:35:05:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:35:05:   normal: 3, FloatVec3, 1
+2021-09-06 03:35:05:   color: 4, FloatVec3, 1
+2021-09-06 03:35:05: Uniforms[ 15 ]:
+2021-09-06 03:35:05:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:35:05:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:35:05:   sizeMul: 2, Float, 1
+2021-09-06 03:35:05:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:35:05:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:35:05:   useTexture: 5, Bool, 1
+2021-09-06 03:35:05:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:35:05:   globalColor: 7, Bool, 1
+2021-09-06 03:35:05:   Ka: 8, FloatVec3, 1
+2021-09-06 03:35:05:   Kd: 9, FloatVec3, 1
+2021-09-06 03:35:05:   useNormal: 10, Bool, 1
+2021-09-06 03:35:05:   Ks: 11, FloatVec3, 1
+2021-09-06 03:35:05:   shininess: 12, Float, 1
+2021-09-06 03:35:05:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:35:05:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:35:36: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:35:36: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:35:36: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:35:36: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:35:36: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:35:36:   VertexShader: 1
+2021-09-06 03:35:36:   FragmentShader: 2
+2021-09-06 03:35:36: Attributes[ 5 ]:
+2021-09-06 03:35:36:   position: 0, FloatVec3, 1
+2021-09-06 03:35:36:   ptSize: 1, Float, 1
+2021-09-06 03:35:36:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:35:36:   normal: 3, FloatVec3, 1
+2021-09-06 03:35:36:   color: 4, FloatVec3, 1
+2021-09-06 03:35:36: Uniforms[ 15 ]:
+2021-09-06 03:35:36:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:35:36:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:35:36:   sizeMul: 2, Float, 1
+2021-09-06 03:35:36:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:35:36:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:35:36:   useTexture: 5, Bool, 1
+2021-09-06 03:35:36:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:35:36:   globalColor: 7, Bool, 1
+2021-09-06 03:35:36:   Ka: 8, FloatVec3, 1
+2021-09-06 03:35:36:   Kd: 9, FloatVec3, 1
+2021-09-06 03:35:36:   useNormal: 10, Bool, 1
+2021-09-06 03:35:36:   Ks: 11, FloatVec3, 1
+2021-09-06 03:35:36:   shininess: 12, Float, 1
+2021-09-06 03:35:36:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:35:36:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:36:15: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:36:15: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:36:15: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:36:15: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:36:15: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:36:15:   VertexShader: 1
+2021-09-06 03:36:15:   FragmentShader: 2
+2021-09-06 03:36:15: Attributes[ 5 ]:
+2021-09-06 03:36:15:   position: 0, FloatVec3, 1
+2021-09-06 03:36:15:   ptSize: 1, Float, 1
+2021-09-06 03:36:15:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:36:15:   normal: 3, FloatVec3, 1
+2021-09-06 03:36:15:   color: 4, FloatVec3, 1
+2021-09-06 03:36:15: Uniforms[ 15 ]:
+2021-09-06 03:36:15:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:36:15:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:36:15:   sizeMul: 2, Float, 1
+2021-09-06 03:36:15:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:36:15:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:36:15:   useTexture: 5, Bool, 1
+2021-09-06 03:36:15:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:36:15:   globalColor: 7, Bool, 1
+2021-09-06 03:36:15:   Ka: 8, FloatVec3, 1
+2021-09-06 03:36:15:   Kd: 9, FloatVec3, 1
+2021-09-06 03:36:15:   useNormal: 10, Bool, 1
+2021-09-06 03:36:15:   Ks: 11, FloatVec3, 1
+2021-09-06 03:36:15:   shininess: 12, Float, 1
+2021-09-06 03:36:15:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:36:15:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:37:14: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:37:14: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:37:14: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:37:14: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:37:14: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:37:14:   VertexShader: 1
+2021-09-06 03:37:14:   FragmentShader: 2
+2021-09-06 03:37:14: Attributes[ 5 ]:
+2021-09-06 03:37:14:   position: 0, FloatVec3, 1
+2021-09-06 03:37:14:   ptSize: 1, Float, 1
+2021-09-06 03:37:14:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:37:14:   normal: 3, FloatVec3, 1
+2021-09-06 03:37:14:   color: 4, FloatVec3, 1
+2021-09-06 03:37:14: Uniforms[ 15 ]:
+2021-09-06 03:37:14:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:37:14:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:37:14:   sizeMul: 2, Float, 1
+2021-09-06 03:37:14:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:37:14:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:37:14:   useTexture: 5, Bool, 1
+2021-09-06 03:37:14:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:37:14:   globalColor: 7, Bool, 1
+2021-09-06 03:37:14:   Ka: 8, FloatVec3, 1
+2021-09-06 03:37:14:   Kd: 9, FloatVec3, 1
+2021-09-06 03:37:14:   useNormal: 10, Bool, 1
+2021-09-06 03:37:14:   Ks: 11, FloatVec3, 1
+2021-09-06 03:37:14:   shininess: 12, Float, 1
+2021-09-06 03:37:14:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:37:14:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:39:45: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:39:45: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:39:45: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:39:45: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:39:45: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:39:45:   VertexShader: 1
+2021-09-06 03:39:45:   FragmentShader: 2
+2021-09-06 03:39:45: Attributes[ 5 ]:
+2021-09-06 03:39:45:   position: 0, FloatVec3, 1
+2021-09-06 03:39:45:   ptSize: 1, Float, 1
+2021-09-06 03:39:45:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:39:45:   normal: 3, FloatVec3, 1
+2021-09-06 03:39:45:   color: 4, FloatVec3, 1
+2021-09-06 03:39:45: Uniforms[ 15 ]:
+2021-09-06 03:39:45:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:39:45:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:39:45:   sizeMul: 2, Float, 1
+2021-09-06 03:39:45:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:39:45:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:39:45:   useTexture: 5, Bool, 1
+2021-09-06 03:39:45:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:39:45:   globalColor: 7, Bool, 1
+2021-09-06 03:39:45:   Ka: 8, FloatVec3, 1
+2021-09-06 03:39:45:   Kd: 9, FloatVec3, 1
+2021-09-06 03:39:45:   useNormal: 10, Bool, 1
+2021-09-06 03:39:45:   Ks: 11, FloatVec3, 1
+2021-09-06 03:39:45:   shininess: 12, Float, 1
+2021-09-06 03:39:45:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:39:45:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:49:01: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:49:01: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:49:01: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:49:01: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:49:01: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:49:01:   VertexShader: 1
+2021-09-06 03:49:01:   FragmentShader: 2
+2021-09-06 03:49:01: Attributes[ 5 ]:
+2021-09-06 03:49:01:   position: 0, FloatVec3, 1
+2021-09-06 03:49:01:   ptSize: 1, Float, 1
+2021-09-06 03:49:01:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:49:01:   normal: 3, FloatVec3, 1
+2021-09-06 03:49:01:   color: 4, FloatVec3, 1
+2021-09-06 03:49:01: Uniforms[ 15 ]:
+2021-09-06 03:49:01:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:49:01:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:49:01:   sizeMul: 2, Float, 1
+2021-09-06 03:49:01:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:49:01:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:49:01:   useTexture: 5, Bool, 1
+2021-09-06 03:49:01:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:49:01:   globalColor: 7, Bool, 1
+2021-09-06 03:49:01:   Ka: 8, FloatVec3, 1
+2021-09-06 03:49:01:   Kd: 9, FloatVec3, 1
+2021-09-06 03:49:01:   useNormal: 10, Bool, 1
+2021-09-06 03:49:01:   Ks: 11, FloatVec3, 1
+2021-09-06 03:49:01:   shininess: 12, Float, 1
+2021-09-06 03:49:01:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:49:01:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:50:25: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:50:25: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:50:25: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:50:25: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:50:25: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:50:25:   VertexShader: 1
+2021-09-06 03:50:25:   FragmentShader: 2
+2021-09-06 03:50:25: Attributes[ 5 ]:
+2021-09-06 03:50:25:   position: 0, FloatVec3, 1
+2021-09-06 03:50:25:   ptSize: 1, Float, 1
+2021-09-06 03:50:25:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:50:25:   normal: 3, FloatVec3, 1
+2021-09-06 03:50:25:   color: 4, FloatVec3, 1
+2021-09-06 03:50:25: Uniforms[ 15 ]:
+2021-09-06 03:50:25:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:50:25:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:50:25:   sizeMul: 2, Float, 1
+2021-09-06 03:50:25:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:50:25:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:50:25:   useTexture: 5, Bool, 1
+2021-09-06 03:50:25:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:50:25:   globalColor: 7, Bool, 1
+2021-09-06 03:50:25:   Ka: 8, FloatVec3, 1
+2021-09-06 03:50:25:   Kd: 9, FloatVec3, 1
+2021-09-06 03:50:25:   useNormal: 10, Bool, 1
+2021-09-06 03:50:25:   Ks: 11, FloatVec3, 1
+2021-09-06 03:50:25:   shininess: 12, Float, 1
+2021-09-06 03:50:25:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:50:25:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:50:54: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:50:54: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:50:54: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:50:54: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:50:54: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:50:54:   VertexShader: 1
+2021-09-06 03:50:54:   FragmentShader: 2
+2021-09-06 03:50:54: Attributes[ 5 ]:
+2021-09-06 03:50:54:   position: 0, FloatVec3, 1
+2021-09-06 03:50:54:   ptSize: 1, Float, 1
+2021-09-06 03:50:54:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:50:54:   normal: 3, FloatVec3, 1
+2021-09-06 03:50:54:   color: 4, FloatVec3, 1
+2021-09-06 03:50:54: Uniforms[ 15 ]:
+2021-09-06 03:50:54:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:50:54:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:50:54:   sizeMul: 2, Float, 1
+2021-09-06 03:50:54:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:50:54:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:50:54:   useTexture: 5, Bool, 1
+2021-09-06 03:50:54:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:50:54:   globalColor: 7, Bool, 1
+2021-09-06 03:50:54:   Ka: 8, FloatVec3, 1
+2021-09-06 03:50:54:   Kd: 9, FloatVec3, 1
+2021-09-06 03:50:54:   useNormal: 10, Bool, 1
+2021-09-06 03:50:54:   Ks: 11, FloatVec3, 1
+2021-09-06 03:50:54:   shininess: 12, Float, 1
+2021-09-06 03:50:54:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:50:54:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:51:58: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:51:58: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:51:58: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:51:58: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:51:58: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:51:58:   VertexShader: 1
+2021-09-06 03:51:58:   FragmentShader: 2
+2021-09-06 03:51:58: Attributes[ 5 ]:
+2021-09-06 03:51:58:   position: 0, FloatVec3, 1
+2021-09-06 03:51:58:   ptSize: 1, Float, 1
+2021-09-06 03:51:58:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:51:58:   normal: 3, FloatVec3, 1
+2021-09-06 03:51:58:   color: 4, FloatVec3, 1
+2021-09-06 03:51:58: Uniforms[ 15 ]:
+2021-09-06 03:51:58:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:51:58:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:51:58:   sizeMul: 2, Float, 1
+2021-09-06 03:51:58:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:51:58:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:51:58:   useTexture: 5, Bool, 1
+2021-09-06 03:51:58:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:51:58:   globalColor: 7, Bool, 1
+2021-09-06 03:51:58:   Ka: 8, FloatVec3, 1
+2021-09-06 03:51:58:   Kd: 9, FloatVec3, 1
+2021-09-06 03:51:58:   useNormal: 10, Bool, 1
+2021-09-06 03:51:58:   Ks: 11, FloatVec3, 1
+2021-09-06 03:51:58:   shininess: 12, Float, 1
+2021-09-06 03:51:58:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:51:58:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 03:58:22: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 03:58:22: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 03:58:22: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 03:58:22: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 03:58:22: GLSL program 'default': 3, shaders: 2
+2021-09-06 03:58:22:   VertexShader: 1
+2021-09-06 03:58:22:   FragmentShader: 2
+2021-09-06 03:58:22: Attributes[ 5 ]:
+2021-09-06 03:58:22:   position: 0, FloatVec3, 1
+2021-09-06 03:58:22:   ptSize: 1, Float, 1
+2021-09-06 03:58:22:   texCoords: 2, FloatVec2, 1
+2021-09-06 03:58:22:   normal: 3, FloatVec3, 1
+2021-09-06 03:58:22:   color: 4, FloatVec3, 1
+2021-09-06 03:58:22: Uniforms[ 15 ]:
+2021-09-06 03:58:22:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 03:58:22:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 03:58:22:   sizeMul: 2, Float, 1
+2021-09-06 03:58:22:   lightPosition: 3, FloatVec3, 1
+2021-09-06 03:58:22:   eyePosition: 4, FloatVec3, 1
+2021-09-06 03:58:22:   useTexture: 5, Bool, 1
+2021-09-06 03:58:22:   texSurface: 6, Sampler2D, 1
+2021-09-06 03:58:22:   globalColor: 7, Bool, 1
+2021-09-06 03:58:22:   Ka: 8, FloatVec3, 1
+2021-09-06 03:58:22:   Kd: 9, FloatVec3, 1
+2021-09-06 03:58:22:   useNormal: 10, Bool, 1
+2021-09-06 03:58:22:   Ks: 11, FloatVec3, 1
+2021-09-06 03:58:22:   shininess: 12, Float, 1
+2021-09-06 03:58:22:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 03:58:22:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:01:55: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:01:55: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:01:55: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:01:55: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:01:55: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:01:55:   VertexShader: 1
+2021-09-06 04:01:55:   FragmentShader: 2
+2021-09-06 04:01:55: Attributes[ 5 ]:
+2021-09-06 04:01:55:   position: 0, FloatVec3, 1
+2021-09-06 04:01:55:   ptSize: 1, Float, 1
+2021-09-06 04:01:55:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:01:55:   normal: 3, FloatVec3, 1
+2021-09-06 04:01:55:   color: 4, FloatVec3, 1
+2021-09-06 04:01:55: Uniforms[ 15 ]:
+2021-09-06 04:01:55:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:01:55:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:01:55:   sizeMul: 2, Float, 1
+2021-09-06 04:01:55:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:01:55:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:01:55:   useTexture: 5, Bool, 1
+2021-09-06 04:01:55:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:01:55:   globalColor: 7, Bool, 1
+2021-09-06 04:01:55:   Ka: 8, FloatVec3, 1
+2021-09-06 04:01:55:   Kd: 9, FloatVec3, 1
+2021-09-06 04:01:55:   useNormal: 10, Bool, 1
+2021-09-06 04:01:55:   Ks: 11, FloatVec3, 1
+2021-09-06 04:01:55:   shininess: 12, Float, 1
+2021-09-06 04:01:55:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:01:55:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:03:36: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:03:36: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:03:36: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:03:36: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:03:36: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:03:36:   VertexShader: 1
+2021-09-06 04:03:36:   FragmentShader: 2
+2021-09-06 04:03:36: Attributes[ 5 ]:
+2021-09-06 04:03:36:   position: 0, FloatVec3, 1
+2021-09-06 04:03:36:   ptSize: 1, Float, 1
+2021-09-06 04:03:36:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:03:36:   normal: 3, FloatVec3, 1
+2021-09-06 04:03:36:   color: 4, FloatVec3, 1
+2021-09-06 04:03:36: Uniforms[ 15 ]:
+2021-09-06 04:03:36:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:03:36:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:03:36:   sizeMul: 2, Float, 1
+2021-09-06 04:03:36:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:03:36:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:03:36:   useTexture: 5, Bool, 1
+2021-09-06 04:03:36:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:03:36:   globalColor: 7, Bool, 1
+2021-09-06 04:03:36:   Ka: 8, FloatVec3, 1
+2021-09-06 04:03:36:   Kd: 9, FloatVec3, 1
+2021-09-06 04:03:36:   useNormal: 10, Bool, 1
+2021-09-06 04:03:36:   Ks: 11, FloatVec3, 1
+2021-09-06 04:03:36:   shininess: 12, Float, 1
+2021-09-06 04:03:36:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:03:36:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:04:37: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:04:37: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:04:37: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:04:37: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:04:37: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:04:37:   VertexShader: 1
+2021-09-06 04:04:37:   FragmentShader: 2
+2021-09-06 04:04:37: Attributes[ 5 ]:
+2021-09-06 04:04:37:   position: 0, FloatVec3, 1
+2021-09-06 04:04:37:   ptSize: 1, Float, 1
+2021-09-06 04:04:37:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:04:37:   normal: 3, FloatVec3, 1
+2021-09-06 04:04:37:   color: 4, FloatVec3, 1
+2021-09-06 04:04:37: Uniforms[ 15 ]:
+2021-09-06 04:04:37:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:04:37:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:04:37:   sizeMul: 2, Float, 1
+2021-09-06 04:04:37:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:04:37:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:04:37:   useTexture: 5, Bool, 1
+2021-09-06 04:04:37:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:04:37:   globalColor: 7, Bool, 1
+2021-09-06 04:04:37:   Ka: 8, FloatVec3, 1
+2021-09-06 04:04:37:   Kd: 9, FloatVec3, 1
+2021-09-06 04:04:37:   useNormal: 10, Bool, 1
+2021-09-06 04:04:37:   Ks: 11, FloatVec3, 1
+2021-09-06 04:04:37:   shininess: 12, Float, 1
+2021-09-06 04:04:37:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:04:37:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:06:39: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:06:39: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:06:39: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:06:39: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:06:39: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:06:39:   VertexShader: 1
+2021-09-06 04:06:39:   FragmentShader: 2
+2021-09-06 04:06:39: Attributes[ 5 ]:
+2021-09-06 04:06:39:   position: 0, FloatVec3, 1
+2021-09-06 04:06:39:   ptSize: 1, Float, 1
+2021-09-06 04:06:39:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:06:39:   normal: 3, FloatVec3, 1
+2021-09-06 04:06:39:   color: 4, FloatVec3, 1
+2021-09-06 04:06:39: Uniforms[ 15 ]:
+2021-09-06 04:06:39:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:06:39:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:06:39:   sizeMul: 2, Float, 1
+2021-09-06 04:06:39:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:06:39:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:06:39:   useTexture: 5, Bool, 1
+2021-09-06 04:06:39:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:06:39:   globalColor: 7, Bool, 1
+2021-09-06 04:06:39:   Ka: 8, FloatVec3, 1
+2021-09-06 04:06:39:   Kd: 9, FloatVec3, 1
+2021-09-06 04:06:39:   useNormal: 10, Bool, 1
+2021-09-06 04:06:39:   Ks: 11, FloatVec3, 1
+2021-09-06 04:06:39:   shininess: 12, Float, 1
+2021-09-06 04:06:39:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:06:39:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:10:15: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:10:15: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:10:15: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:10:15: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:10:15: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:10:15:   VertexShader: 1
+2021-09-06 04:10:15:   FragmentShader: 2
+2021-09-06 04:10:15: Attributes[ 5 ]:
+2021-09-06 04:10:15:   position: 0, FloatVec3, 1
+2021-09-06 04:10:15:   ptSize: 1, Float, 1
+2021-09-06 04:10:15:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:10:15:   normal: 3, FloatVec3, 1
+2021-09-06 04:10:15:   color: 4, FloatVec3, 1
+2021-09-06 04:10:15: Uniforms[ 15 ]:
+2021-09-06 04:10:15:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:10:15:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:10:15:   sizeMul: 2, Float, 1
+2021-09-06 04:10:15:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:10:15:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:10:15:   useTexture: 5, Bool, 1
+2021-09-06 04:10:15:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:10:15:   globalColor: 7, Bool, 1
+2021-09-06 04:10:15:   Ka: 8, FloatVec3, 1
+2021-09-06 04:10:15:   Kd: 9, FloatVec3, 1
+2021-09-06 04:10:15:   useNormal: 10, Bool, 1
+2021-09-06 04:10:15:   Ks: 11, FloatVec3, 1
+2021-09-06 04:10:15:   shininess: 12, Float, 1
+2021-09-06 04:10:15:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:10:15:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:11:07: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:11:07: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:11:07: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:11:07: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:11:07: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:11:07:   VertexShader: 1
+2021-09-06 04:11:07:   FragmentShader: 2
+2021-09-06 04:11:07: Attributes[ 5 ]:
+2021-09-06 04:11:07:   position: 0, FloatVec3, 1
+2021-09-06 04:11:07:   ptSize: 1, Float, 1
+2021-09-06 04:11:07:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:11:07:   normal: 3, FloatVec3, 1
+2021-09-06 04:11:07:   color: 4, FloatVec3, 1
+2021-09-06 04:11:07: Uniforms[ 15 ]:
+2021-09-06 04:11:07:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:11:07:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:11:07:   sizeMul: 2, Float, 1
+2021-09-06 04:11:07:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:11:07:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:11:07:   useTexture: 5, Bool, 1
+2021-09-06 04:11:07:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:11:07:   globalColor: 7, Bool, 1
+2021-09-06 04:11:07:   Ka: 8, FloatVec3, 1
+2021-09-06 04:11:07:   Kd: 9, FloatVec3, 1
+2021-09-06 04:11:07:   useNormal: 10, Bool, 1
+2021-09-06 04:11:07:   Ks: 11, FloatVec3, 1
+2021-09-06 04:11:07:   shininess: 12, Float, 1
+2021-09-06 04:11:07:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:11:07:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:11:39: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:11:39: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:11:39: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:11:39: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:11:40: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:11:40:   VertexShader: 1
+2021-09-06 04:11:40:   FragmentShader: 2
+2021-09-06 04:11:40: Attributes[ 5 ]:
+2021-09-06 04:11:40:   position: 0, FloatVec3, 1
+2021-09-06 04:11:40:   ptSize: 1, Float, 1
+2021-09-06 04:11:40:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:11:40:   normal: 3, FloatVec3, 1
+2021-09-06 04:11:40:   color: 4, FloatVec3, 1
+2021-09-06 04:11:40: Uniforms[ 15 ]:
+2021-09-06 04:11:40:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:11:40:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:11:40:   sizeMul: 2, Float, 1
+2021-09-06 04:11:40:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:11:40:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:11:40:   useTexture: 5, Bool, 1
+2021-09-06 04:11:40:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:11:40:   globalColor: 7, Bool, 1
+2021-09-06 04:11:40:   Ka: 8, FloatVec3, 1
+2021-09-06 04:11:40:   Kd: 9, FloatVec3, 1
+2021-09-06 04:11:40:   useNormal: 10, Bool, 1
+2021-09-06 04:11:40:   Ks: 11, FloatVec3, 1
+2021-09-06 04:11:40:   shininess: 12, Float, 1
+2021-09-06 04:11:40:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:11:40:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:22:55: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:22:55: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:22:55: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:22:55: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:22:56: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:22:56:   VertexShader: 1
+2021-09-06 04:22:56:   FragmentShader: 2
+2021-09-06 04:22:56: Attributes[ 5 ]:
+2021-09-06 04:22:56:   position: 0, FloatVec3, 1
+2021-09-06 04:22:56:   ptSize: 1, Float, 1
+2021-09-06 04:22:56:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:22:56:   normal: 3, FloatVec3, 1
+2021-09-06 04:22:56:   color: 4, FloatVec3, 1
+2021-09-06 04:22:56: Uniforms[ 15 ]:
+2021-09-06 04:22:56:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:22:56:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:22:56:   sizeMul: 2, Float, 1
+2021-09-06 04:22:56:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:22:56:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:22:56:   useTexture: 5, Bool, 1
+2021-09-06 04:22:56:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:22:56:   globalColor: 7, Bool, 1
+2021-09-06 04:22:56:   Ka: 8, FloatVec3, 1
+2021-09-06 04:22:56:   Kd: 9, FloatVec3, 1
+2021-09-06 04:22:56:   useNormal: 10, Bool, 1
+2021-09-06 04:22:56:   Ks: 11, FloatVec3, 1
+2021-09-06 04:22:56:   shininess: 12, Float, 1
+2021-09-06 04:22:56:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:22:56:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:26:15: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:26:15: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:26:15: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:26:15: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:26:15: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:26:15:   VertexShader: 1
+2021-09-06 04:26:15:   FragmentShader: 2
+2021-09-06 04:26:15: Attributes[ 5 ]:
+2021-09-06 04:26:15:   position: 0, FloatVec3, 1
+2021-09-06 04:26:15:   ptSize: 1, Float, 1
+2021-09-06 04:26:15:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:26:15:   normal: 3, FloatVec3, 1
+2021-09-06 04:26:15:   color: 4, FloatVec3, 1
+2021-09-06 04:26:15: Uniforms[ 15 ]:
+2021-09-06 04:26:15:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:26:15:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:26:15:   sizeMul: 2, Float, 1
+2021-09-06 04:26:15:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:26:15:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:26:15:   useTexture: 5, Bool, 1
+2021-09-06 04:26:15:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:26:15:   globalColor: 7, Bool, 1
+2021-09-06 04:26:15:   Ka: 8, FloatVec3, 1
+2021-09-06 04:26:15:   Kd: 9, FloatVec3, 1
+2021-09-06 04:26:15:   useNormal: 10, Bool, 1
+2021-09-06 04:26:15:   Ks: 11, FloatVec3, 1
+2021-09-06 04:26:15:   shininess: 12, Float, 1
+2021-09-06 04:26:15:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:26:15:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:27:50: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:27:50: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:27:50: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:27:50: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:27:50: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:27:50:   VertexShader: 1
+2021-09-06 04:27:50:   FragmentShader: 2
+2021-09-06 04:27:50: Attributes[ 5 ]:
+2021-09-06 04:27:50:   position: 0, FloatVec3, 1
+2021-09-06 04:27:50:   ptSize: 1, Float, 1
+2021-09-06 04:27:50:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:27:50:   normal: 3, FloatVec3, 1
+2021-09-06 04:27:50:   color: 4, FloatVec3, 1
+2021-09-06 04:27:50: Uniforms[ 15 ]:
+2021-09-06 04:27:50:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:27:50:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:27:50:   sizeMul: 2, Float, 1
+2021-09-06 04:27:50:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:27:50:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:27:50:   useTexture: 5, Bool, 1
+2021-09-06 04:27:50:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:27:50:   globalColor: 7, Bool, 1
+2021-09-06 04:27:50:   Ka: 8, FloatVec3, 1
+2021-09-06 04:27:50:   Kd: 9, FloatVec3, 1
+2021-09-06 04:27:50:   useNormal: 10, Bool, 1
+2021-09-06 04:27:50:   Ks: 11, FloatVec3, 1
+2021-09-06 04:27:50:   shininess: 12, Float, 1
+2021-09-06 04:27:50:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:27:50:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:28:52: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:28:52: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:28:52: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:28:52: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:28:52: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:28:52:   VertexShader: 1
+2021-09-06 04:28:52:   FragmentShader: 2
+2021-09-06 04:28:52: Attributes[ 5 ]:
+2021-09-06 04:28:52:   position: 0, FloatVec3, 1
+2021-09-06 04:28:52:   ptSize: 1, Float, 1
+2021-09-06 04:28:52:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:28:52:   normal: 3, FloatVec3, 1
+2021-09-06 04:28:52:   color: 4, FloatVec3, 1
+2021-09-06 04:28:52: Uniforms[ 15 ]:
+2021-09-06 04:28:52:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:28:52:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:28:52:   sizeMul: 2, Float, 1
+2021-09-06 04:28:52:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:28:52:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:28:52:   useTexture: 5, Bool, 1
+2021-09-06 04:28:52:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:28:52:   globalColor: 7, Bool, 1
+2021-09-06 04:28:52:   Ka: 8, FloatVec3, 1
+2021-09-06 04:28:52:   Kd: 9, FloatVec3, 1
+2021-09-06 04:28:52:   useNormal: 10, Bool, 1
+2021-09-06 04:28:52:   Ks: 11, FloatVec3, 1
+2021-09-06 04:28:52:   shininess: 12, Float, 1
+2021-09-06 04:28:52:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:28:52:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:29:41: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:29:41: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:29:41: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:29:41: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:29:41: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:29:41:   VertexShader: 1
+2021-09-06 04:29:41:   FragmentShader: 2
+2021-09-06 04:29:41: Attributes[ 5 ]:
+2021-09-06 04:29:41:   position: 0, FloatVec3, 1
+2021-09-06 04:29:41:   ptSize: 1, Float, 1
+2021-09-06 04:29:41:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:29:41:   normal: 3, FloatVec3, 1
+2021-09-06 04:29:41:   color: 4, FloatVec3, 1
+2021-09-06 04:29:41: Uniforms[ 15 ]:
+2021-09-06 04:29:41:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:29:41:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:29:41:   sizeMul: 2, Float, 1
+2021-09-06 04:29:41:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:29:41:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:29:41:   useTexture: 5, Bool, 1
+2021-09-06 04:29:41:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:29:41:   globalColor: 7, Bool, 1
+2021-09-06 04:29:41:   Ka: 8, FloatVec3, 1
+2021-09-06 04:29:41:   Kd: 9, FloatVec3, 1
+2021-09-06 04:29:41:   useNormal: 10, Bool, 1
+2021-09-06 04:29:41:   Ks: 11, FloatVec3, 1
+2021-09-06 04:29:41:   shininess: 12, Float, 1
+2021-09-06 04:29:41:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:29:41:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:32:13: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:32:13: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:32:13: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:32:13: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:32:13: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:32:13:   VertexShader: 1
+2021-09-06 04:32:13:   FragmentShader: 2
+2021-09-06 04:32:13: Attributes[ 5 ]:
+2021-09-06 04:32:13:   position: 0, FloatVec3, 1
+2021-09-06 04:32:13:   ptSize: 1, Float, 1
+2021-09-06 04:32:13:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:32:13:   normal: 3, FloatVec3, 1
+2021-09-06 04:32:13:   color: 4, FloatVec3, 1
+2021-09-06 04:32:13: Uniforms[ 15 ]:
+2021-09-06 04:32:13:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:32:13:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:32:13:   sizeMul: 2, Float, 1
+2021-09-06 04:32:13:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:32:13:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:32:13:   useTexture: 5, Bool, 1
+2021-09-06 04:32:13:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:32:13:   globalColor: 7, Bool, 1
+2021-09-06 04:32:13:   Ka: 8, FloatVec3, 1
+2021-09-06 04:32:13:   Kd: 9, FloatVec3, 1
+2021-09-06 04:32:13:   useNormal: 10, Bool, 1
+2021-09-06 04:32:13:   Ks: 11, FloatVec3, 1
+2021-09-06 04:32:13:   shininess: 12, Float, 1
+2021-09-06 04:32:13:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:32:13:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:34:21: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:34:21: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:34:21: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:34:21: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:34:21: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:34:21:   VertexShader: 1
+2021-09-06 04:34:21:   FragmentShader: 2
+2021-09-06 04:34:21: Attributes[ 5 ]:
+2021-09-06 04:34:21:   position: 0, FloatVec3, 1
+2021-09-06 04:34:21:   ptSize: 1, Float, 1
+2021-09-06 04:34:21:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:34:21:   normal: 3, FloatVec3, 1
+2021-09-06 04:34:21:   color: 4, FloatVec3, 1
+2021-09-06 04:34:21: Uniforms[ 15 ]:
+2021-09-06 04:34:21:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:34:21:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:34:21:   sizeMul: 2, Float, 1
+2021-09-06 04:34:21:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:34:21:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:34:21:   useTexture: 5, Bool, 1
+2021-09-06 04:34:21:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:34:21:   globalColor: 7, Bool, 1
+2021-09-06 04:34:21:   Ka: 8, FloatVec3, 1
+2021-09-06 04:34:21:   Kd: 9, FloatVec3, 1
+2021-09-06 04:34:21:   useNormal: 10, Bool, 1
+2021-09-06 04:34:21:   Ks: 11, FloatVec3, 1
+2021-09-06 04:34:21:   shininess: 12, Float, 1
+2021-09-06 04:34:21:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:34:21:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:35:31: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:35:31: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:35:31: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:35:31: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:35:31: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:35:31:   VertexShader: 1
+2021-09-06 04:35:31:   FragmentShader: 2
+2021-09-06 04:35:31: Attributes[ 5 ]:
+2021-09-06 04:35:31:   position: 0, FloatVec3, 1
+2021-09-06 04:35:31:   ptSize: 1, Float, 1
+2021-09-06 04:35:31:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:35:31:   normal: 3, FloatVec3, 1
+2021-09-06 04:35:31:   color: 4, FloatVec3, 1
+2021-09-06 04:35:31: Uniforms[ 15 ]:
+2021-09-06 04:35:31:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:35:31:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:35:31:   sizeMul: 2, Float, 1
+2021-09-06 04:35:31:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:35:31:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:35:31:   useTexture: 5, Bool, 1
+2021-09-06 04:35:31:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:35:31:   globalColor: 7, Bool, 1
+2021-09-06 04:35:31:   Ka: 8, FloatVec3, 1
+2021-09-06 04:35:31:   Kd: 9, FloatVec3, 1
+2021-09-06 04:35:31:   useNormal: 10, Bool, 1
+2021-09-06 04:35:31:   Ks: 11, FloatVec3, 1
+2021-09-06 04:35:31:   shininess: 12, Float, 1
+2021-09-06 04:35:31:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:35:31:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:36:27: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:36:27: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:36:27: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:36:27: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:36:27: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:36:27:   VertexShader: 1
+2021-09-06 04:36:27:   FragmentShader: 2
+2021-09-06 04:36:27: Attributes[ 5 ]:
+2021-09-06 04:36:27:   position: 0, FloatVec3, 1
+2021-09-06 04:36:27:   ptSize: 1, Float, 1
+2021-09-06 04:36:27:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:36:27:   normal: 3, FloatVec3, 1
+2021-09-06 04:36:27:   color: 4, FloatVec3, 1
+2021-09-06 04:36:27: Uniforms[ 15 ]:
+2021-09-06 04:36:27:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:36:27:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:36:27:   sizeMul: 2, Float, 1
+2021-09-06 04:36:27:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:36:27:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:36:27:   useTexture: 5, Bool, 1
+2021-09-06 04:36:27:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:36:27:   globalColor: 7, Bool, 1
+2021-09-06 04:36:27:   Ka: 8, FloatVec3, 1
+2021-09-06 04:36:27:   Kd: 9, FloatVec3, 1
+2021-09-06 04:36:27:   useNormal: 10, Bool, 1
+2021-09-06 04:36:27:   Ks: 11, FloatVec3, 1
+2021-09-06 04:36:27:   shininess: 12, Float, 1
+2021-09-06 04:36:27:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:36:27:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:37:16: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:37:16: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:37:16: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:37:16: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:37:16: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:37:16:   VertexShader: 1
+2021-09-06 04:37:16:   FragmentShader: 2
+2021-09-06 04:37:16: Attributes[ 5 ]:
+2021-09-06 04:37:16:   position: 0, FloatVec3, 1
+2021-09-06 04:37:16:   ptSize: 1, Float, 1
+2021-09-06 04:37:16:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:37:16:   normal: 3, FloatVec3, 1
+2021-09-06 04:37:16:   color: 4, FloatVec3, 1
+2021-09-06 04:37:16: Uniforms[ 15 ]:
+2021-09-06 04:37:16:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:37:16:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:37:16:   sizeMul: 2, Float, 1
+2021-09-06 04:37:16:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:37:16:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:37:16:   useTexture: 5, Bool, 1
+2021-09-06 04:37:16:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:37:16:   globalColor: 7, Bool, 1
+2021-09-06 04:37:16:   Ka: 8, FloatVec3, 1
+2021-09-06 04:37:16:   Kd: 9, FloatVec3, 1
+2021-09-06 04:37:16:   useNormal: 10, Bool, 1
+2021-09-06 04:37:16:   Ks: 11, FloatVec3, 1
+2021-09-06 04:37:16:   shininess: 12, Float, 1
+2021-09-06 04:37:16:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:37:16:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:37:46: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:37:46: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:37:46: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:37:46: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:37:46: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:37:46:   VertexShader: 1
+2021-09-06 04:37:46:   FragmentShader: 2
+2021-09-06 04:37:46: Attributes[ 5 ]:
+2021-09-06 04:37:46:   position: 0, FloatVec3, 1
+2021-09-06 04:37:46:   ptSize: 1, Float, 1
+2021-09-06 04:37:46:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:37:46:   normal: 3, FloatVec3, 1
+2021-09-06 04:37:46:   color: 4, FloatVec3, 1
+2021-09-06 04:37:46: Uniforms[ 15 ]:
+2021-09-06 04:37:46:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:37:46:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:37:46:   sizeMul: 2, Float, 1
+2021-09-06 04:37:46:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:37:46:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:37:46:   useTexture: 5, Bool, 1
+2021-09-06 04:37:46:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:37:46:   globalColor: 7, Bool, 1
+2021-09-06 04:37:46:   Ka: 8, FloatVec3, 1
+2021-09-06 04:37:46:   Kd: 9, FloatVec3, 1
+2021-09-06 04:37:46:   useNormal: 10, Bool, 1
+2021-09-06 04:37:46:   Ks: 11, FloatVec3, 1
+2021-09-06 04:37:46:   shininess: 12, Float, 1
+2021-09-06 04:37:46:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:37:46:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:38:20: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:38:20: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:38:20: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:38:20: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:38:20: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:38:20:   VertexShader: 1
+2021-09-06 04:38:20:   FragmentShader: 2
+2021-09-06 04:38:20: Attributes[ 5 ]:
+2021-09-06 04:38:20:   position: 0, FloatVec3, 1
+2021-09-06 04:38:20:   ptSize: 1, Float, 1
+2021-09-06 04:38:20:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:38:20:   normal: 3, FloatVec3, 1
+2021-09-06 04:38:20:   color: 4, FloatVec3, 1
+2021-09-06 04:38:20: Uniforms[ 15 ]:
+2021-09-06 04:38:20:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:38:20:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:38:20:   sizeMul: 2, Float, 1
+2021-09-06 04:38:20:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:38:20:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:38:20:   useTexture: 5, Bool, 1
+2021-09-06 04:38:20:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:38:20:   globalColor: 7, Bool, 1
+2021-09-06 04:38:20:   Ka: 8, FloatVec3, 1
+2021-09-06 04:38:20:   Kd: 9, FloatVec3, 1
+2021-09-06 04:38:20:   useNormal: 10, Bool, 1
+2021-09-06 04:38:20:   Ks: 11, FloatVec3, 1
+2021-09-06 04:38:20:   shininess: 12, Float, 1
+2021-09-06 04:38:20:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:38:20:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:40:12: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:40:12: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:40:12: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:40:12: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:40:12: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:40:12:   VertexShader: 1
+2021-09-06 04:40:12:   FragmentShader: 2
+2021-09-06 04:40:12: Attributes[ 5 ]:
+2021-09-06 04:40:12:   position: 0, FloatVec3, 1
+2021-09-06 04:40:12:   ptSize: 1, Float, 1
+2021-09-06 04:40:12:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:40:12:   normal: 3, FloatVec3, 1
+2021-09-06 04:40:12:   color: 4, FloatVec3, 1
+2021-09-06 04:40:12: Uniforms[ 15 ]:
+2021-09-06 04:40:12:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:40:12:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:40:12:   sizeMul: 2, Float, 1
+2021-09-06 04:40:12:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:40:12:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:40:12:   useTexture: 5, Bool, 1
+2021-09-06 04:40:12:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:40:12:   globalColor: 7, Bool, 1
+2021-09-06 04:40:12:   Ka: 8, FloatVec3, 1
+2021-09-06 04:40:12:   Kd: 9, FloatVec3, 1
+2021-09-06 04:40:12:   useNormal: 10, Bool, 1
+2021-09-06 04:40:12:   Ks: 11, FloatVec3, 1
+2021-09-06 04:40:12:   shininess: 12, Float, 1
+2021-09-06 04:40:12:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:40:12:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:47:33: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:47:33: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:47:33: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:47:33: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:47:33: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:47:33:   VertexShader: 1
+2021-09-06 04:47:33:   FragmentShader: 2
+2021-09-06 04:47:33: Attributes[ 5 ]:
+2021-09-06 04:47:33:   position: 0, FloatVec3, 1
+2021-09-06 04:47:33:   ptSize: 1, Float, 1
+2021-09-06 04:47:33:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:47:33:   normal: 3, FloatVec3, 1
+2021-09-06 04:47:33:   color: 4, FloatVec3, 1
+2021-09-06 04:47:33: Uniforms[ 15 ]:
+2021-09-06 04:47:33:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:47:33:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:47:33:   sizeMul: 2, Float, 1
+2021-09-06 04:47:33:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:47:33:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:47:33:   useTexture: 5, Bool, 1
+2021-09-06 04:47:33:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:47:33:   globalColor: 7, Bool, 1
+2021-09-06 04:47:33:   Ka: 8, FloatVec3, 1
+2021-09-06 04:47:33:   Kd: 9, FloatVec3, 1
+2021-09-06 04:47:33:   useNormal: 10, Bool, 1
+2021-09-06 04:47:33:   Ks: 11, FloatVec3, 1
+2021-09-06 04:47:33:   shininess: 12, Float, 1
+2021-09-06 04:47:33:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:47:33:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:52:36: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:52:36: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:52:36: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:52:36: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:52:36: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:52:36:   VertexShader: 1
+2021-09-06 04:52:36:   FragmentShader: 2
+2021-09-06 04:52:36: Attributes[ 5 ]:
+2021-09-06 04:52:36:   position: 0, FloatVec3, 1
+2021-09-06 04:52:36:   ptSize: 1, Float, 1
+2021-09-06 04:52:36:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:52:36:   normal: 3, FloatVec3, 1
+2021-09-06 04:52:36:   color: 4, FloatVec3, 1
+2021-09-06 04:52:36: Uniforms[ 15 ]:
+2021-09-06 04:52:36:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:52:36:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:52:36:   sizeMul: 2, Float, 1
+2021-09-06 04:52:36:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:52:36:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:52:36:   useTexture: 5, Bool, 1
+2021-09-06 04:52:36:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:52:36:   globalColor: 7, Bool, 1
+2021-09-06 04:52:36:   Ka: 8, FloatVec3, 1
+2021-09-06 04:52:36:   Kd: 9, FloatVec3, 1
+2021-09-06 04:52:36:   useNormal: 10, Bool, 1
+2021-09-06 04:52:36:   Ks: 11, FloatVec3, 1
+2021-09-06 04:52:36:   shininess: 12, Float, 1
+2021-09-06 04:52:36:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:52:36:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 04:53:43: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 04:53:43: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 04:53:43: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 04:53:43: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 04:53:43: GLSL program 'default': 3, shaders: 2
+2021-09-06 04:53:43:   VertexShader: 1
+2021-09-06 04:53:43:   FragmentShader: 2
+2021-09-06 04:53:43: Attributes[ 5 ]:
+2021-09-06 04:53:43:   position: 0, FloatVec3, 1
+2021-09-06 04:53:43:   ptSize: 1, Float, 1
+2021-09-06 04:53:43:   texCoords: 2, FloatVec2, 1
+2021-09-06 04:53:43:   normal: 3, FloatVec3, 1
+2021-09-06 04:53:43:   color: 4, FloatVec3, 1
+2021-09-06 04:53:43: Uniforms[ 15 ]:
+2021-09-06 04:53:43:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 04:53:43:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 04:53:43:   sizeMul: 2, Float, 1
+2021-09-06 04:53:43:   lightPosition: 3, FloatVec3, 1
+2021-09-06 04:53:43:   eyePosition: 4, FloatVec3, 1
+2021-09-06 04:53:43:   useTexture: 5, Bool, 1
+2021-09-06 04:53:43:   texSurface: 6, Sampler2D, 1
+2021-09-06 04:53:43:   globalColor: 7, Bool, 1
+2021-09-06 04:53:43:   Ka: 8, FloatVec3, 1
+2021-09-06 04:53:43:   Kd: 9, FloatVec3, 1
+2021-09-06 04:53:43:   useNormal: 10, Bool, 1
+2021-09-06 04:53:43:   Ks: 11, FloatVec3, 1
+2021-09-06 04:53:43:   shininess: 12, Float, 1
+2021-09-06 04:53:43:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 04:53:43:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:00:03: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:00:03: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:00:03: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:00:03: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:00:03: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:00:03:   VertexShader: 1
+2021-09-06 05:00:03:   FragmentShader: 2
+2021-09-06 05:00:03: Attributes[ 5 ]:
+2021-09-06 05:00:03:   position: 0, FloatVec3, 1
+2021-09-06 05:00:03:   ptSize: 1, Float, 1
+2021-09-06 05:00:03:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:00:03:   normal: 3, FloatVec3, 1
+2021-09-06 05:00:03:   color: 4, FloatVec3, 1
+2021-09-06 05:00:03: Uniforms[ 15 ]:
+2021-09-06 05:00:03:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:00:03:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:00:03:   sizeMul: 2, Float, 1
+2021-09-06 05:00:03:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:00:03:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:00:03:   useTexture: 5, Bool, 1
+2021-09-06 05:00:03:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:00:03:   globalColor: 7, Bool, 1
+2021-09-06 05:00:03:   Ka: 8, FloatVec3, 1
+2021-09-06 05:00:03:   Kd: 9, FloatVec3, 1
+2021-09-06 05:00:03:   useNormal: 10, Bool, 1
+2021-09-06 05:00:03:   Ks: 11, FloatVec3, 1
+2021-09-06 05:00:03:   shininess: 12, Float, 1
+2021-09-06 05:00:03:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:00:03:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:05:11: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:05:11: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:05:11: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:05:11: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:05:11: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:05:11:   VertexShader: 1
+2021-09-06 05:05:11:   FragmentShader: 2
+2021-09-06 05:05:11: Attributes[ 5 ]:
+2021-09-06 05:05:11:   position: 0, FloatVec3, 1
+2021-09-06 05:05:11:   ptSize: 1, Float, 1
+2021-09-06 05:05:11:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:05:11:   normal: 3, FloatVec3, 1
+2021-09-06 05:05:11:   color: 4, FloatVec3, 1
+2021-09-06 05:05:11: Uniforms[ 15 ]:
+2021-09-06 05:05:11:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:05:11:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:05:11:   sizeMul: 2, Float, 1
+2021-09-06 05:05:11:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:05:11:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:05:11:   useTexture: 5, Bool, 1
+2021-09-06 05:05:11:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:05:11:   globalColor: 7, Bool, 1
+2021-09-06 05:05:11:   Ka: 8, FloatVec3, 1
+2021-09-06 05:05:11:   Kd: 9, FloatVec3, 1
+2021-09-06 05:05:11:   useNormal: 10, Bool, 1
+2021-09-06 05:05:11:   Ks: 11, FloatVec3, 1
+2021-09-06 05:05:11:   shininess: 12, Float, 1
+2021-09-06 05:05:11:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:05:11:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:06:49: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:06:49: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:06:49: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:06:49: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:06:49: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:06:49:   VertexShader: 1
+2021-09-06 05:06:49:   FragmentShader: 2
+2021-09-06 05:06:49: Attributes[ 5 ]:
+2021-09-06 05:06:49:   position: 0, FloatVec3, 1
+2021-09-06 05:06:49:   ptSize: 1, Float, 1
+2021-09-06 05:06:49:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:06:49:   normal: 3, FloatVec3, 1
+2021-09-06 05:06:49:   color: 4, FloatVec3, 1
+2021-09-06 05:06:49: Uniforms[ 15 ]:
+2021-09-06 05:06:49:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:06:49:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:06:49:   sizeMul: 2, Float, 1
+2021-09-06 05:06:49:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:06:49:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:06:49:   useTexture: 5, Bool, 1
+2021-09-06 05:06:49:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:06:49:   globalColor: 7, Bool, 1
+2021-09-06 05:06:49:   Ka: 8, FloatVec3, 1
+2021-09-06 05:06:49:   Kd: 9, FloatVec3, 1
+2021-09-06 05:06:49:   useNormal: 10, Bool, 1
+2021-09-06 05:06:49:   Ks: 11, FloatVec3, 1
+2021-09-06 05:06:49:   shininess: 12, Float, 1
+2021-09-06 05:06:49:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:06:49:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:07:26: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:07:26: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:07:26: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:07:26: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:07:26: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:07:26:   VertexShader: 1
+2021-09-06 05:07:26:   FragmentShader: 2
+2021-09-06 05:07:26: Attributes[ 5 ]:
+2021-09-06 05:07:26:   position: 0, FloatVec3, 1
+2021-09-06 05:07:26:   ptSize: 1, Float, 1
+2021-09-06 05:07:26:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:07:26:   normal: 3, FloatVec3, 1
+2021-09-06 05:07:26:   color: 4, FloatVec3, 1
+2021-09-06 05:07:26: Uniforms[ 15 ]:
+2021-09-06 05:07:26:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:07:26:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:07:26:   sizeMul: 2, Float, 1
+2021-09-06 05:07:26:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:07:26:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:07:26:   useTexture: 5, Bool, 1
+2021-09-06 05:07:26:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:07:26:   globalColor: 7, Bool, 1
+2021-09-06 05:07:26:   Ka: 8, FloatVec3, 1
+2021-09-06 05:07:26:   Kd: 9, FloatVec3, 1
+2021-09-06 05:07:26:   useNormal: 10, Bool, 1
+2021-09-06 05:07:26:   Ks: 11, FloatVec3, 1
+2021-09-06 05:07:26:   shininess: 12, Float, 1
+2021-09-06 05:07:26:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:07:26:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:27:45: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:27:45: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:27:45: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:27:45: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:27:45: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:27:45:   VertexShader: 1
+2021-09-06 05:27:45:   FragmentShader: 2
+2021-09-06 05:27:45: Attributes[ 5 ]:
+2021-09-06 05:27:45:   position: 0, FloatVec3, 1
+2021-09-06 05:27:45:   ptSize: 1, Float, 1
+2021-09-06 05:27:45:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:27:45:   normal: 3, FloatVec3, 1
+2021-09-06 05:27:45:   color: 4, FloatVec3, 1
+2021-09-06 05:27:45: Uniforms[ 15 ]:
+2021-09-06 05:27:45:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:27:45:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:27:45:   sizeMul: 2, Float, 1
+2021-09-06 05:27:45:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:27:45:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:27:45:   useTexture: 5, Bool, 1
+2021-09-06 05:27:45:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:27:45:   globalColor: 7, Bool, 1
+2021-09-06 05:27:45:   Ka: 8, FloatVec3, 1
+2021-09-06 05:27:45:   Kd: 9, FloatVec3, 1
+2021-09-06 05:27:45:   useNormal: 10, Bool, 1
+2021-09-06 05:27:45:   Ks: 11, FloatVec3, 1
+2021-09-06 05:27:45:   shininess: 12, Float, 1
+2021-09-06 05:27:45:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:27:45:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:29:10: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:29:10: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:29:10: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:29:10: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:29:10: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:29:10:   VertexShader: 1
+2021-09-06 05:29:10:   FragmentShader: 2
+2021-09-06 05:29:10: Attributes[ 5 ]:
+2021-09-06 05:29:10:   position: 0, FloatVec3, 1
+2021-09-06 05:29:10:   ptSize: 1, Float, 1
+2021-09-06 05:29:10:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:29:10:   normal: 3, FloatVec3, 1
+2021-09-06 05:29:10:   color: 4, FloatVec3, 1
+2021-09-06 05:29:10: Uniforms[ 15 ]:
+2021-09-06 05:29:10:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:29:10:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:29:10:   sizeMul: 2, Float, 1
+2021-09-06 05:29:10:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:29:10:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:29:10:   useTexture: 5, Bool, 1
+2021-09-06 05:29:10:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:29:10:   globalColor: 7, Bool, 1
+2021-09-06 05:29:10:   Ka: 8, FloatVec3, 1
+2021-09-06 05:29:10:   Kd: 9, FloatVec3, 1
+2021-09-06 05:29:10:   useNormal: 10, Bool, 1
+2021-09-06 05:29:10:   Ks: 11, FloatVec3, 1
+2021-09-06 05:29:10:   shininess: 12, Float, 1
+2021-09-06 05:29:10:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:29:10:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:30:23: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:30:23: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:30:23: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:30:23: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:30:23: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:30:23:   VertexShader: 1
+2021-09-06 05:30:23:   FragmentShader: 2
+2021-09-06 05:30:23: Attributes[ 5 ]:
+2021-09-06 05:30:23:   position: 0, FloatVec3, 1
+2021-09-06 05:30:23:   ptSize: 1, Float, 1
+2021-09-06 05:30:23:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:30:23:   normal: 3, FloatVec3, 1
+2021-09-06 05:30:23:   color: 4, FloatVec3, 1
+2021-09-06 05:30:23: Uniforms[ 15 ]:
+2021-09-06 05:30:23:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:30:23:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:30:23:   sizeMul: 2, Float, 1
+2021-09-06 05:30:23:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:30:23:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:30:23:   useTexture: 5, Bool, 1
+2021-09-06 05:30:23:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:30:23:   globalColor: 7, Bool, 1
+2021-09-06 05:30:23:   Ka: 8, FloatVec3, 1
+2021-09-06 05:30:23:   Kd: 9, FloatVec3, 1
+2021-09-06 05:30:23:   useNormal: 10, Bool, 1
+2021-09-06 05:30:23:   Ks: 11, FloatVec3, 1
+2021-09-06 05:30:23:   shininess: 12, Float, 1
+2021-09-06 05:30:23:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:30:23:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:43:47: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:43:47: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:43:47: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:43:47: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:43:47: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:43:47:   VertexShader: 1
+2021-09-06 05:43:47:   FragmentShader: 2
+2021-09-06 05:43:47: Attributes[ 5 ]:
+2021-09-06 05:43:47:   position: 0, FloatVec3, 1
+2021-09-06 05:43:47:   ptSize: 1, Float, 1
+2021-09-06 05:43:47:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:43:47:   normal: 3, FloatVec3, 1
+2021-09-06 05:43:47:   color: 4, FloatVec3, 1
+2021-09-06 05:43:47: Uniforms[ 15 ]:
+2021-09-06 05:43:47:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:43:47:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:43:47:   sizeMul: 2, Float, 1
+2021-09-06 05:43:47:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:43:47:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:43:47:   useTexture: 5, Bool, 1
+2021-09-06 05:43:47:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:43:47:   globalColor: 7, Bool, 1
+2021-09-06 05:43:47:   Ka: 8, FloatVec3, 1
+2021-09-06 05:43:47:   Kd: 9, FloatVec3, 1
+2021-09-06 05:43:47:   useNormal: 10, Bool, 1
+2021-09-06 05:43:47:   Ks: 11, FloatVec3, 1
+2021-09-06 05:43:47:   shininess: 12, Float, 1
+2021-09-06 05:43:47:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:43:47:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:44:37: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:44:37: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:44:37: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:44:37: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:44:37: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:44:37:   VertexShader: 1
+2021-09-06 05:44:37:   FragmentShader: 2
+2021-09-06 05:44:37: Attributes[ 5 ]:
+2021-09-06 05:44:37:   position: 0, FloatVec3, 1
+2021-09-06 05:44:37:   ptSize: 1, Float, 1
+2021-09-06 05:44:37:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:44:37:   normal: 3, FloatVec3, 1
+2021-09-06 05:44:37:   color: 4, FloatVec3, 1
+2021-09-06 05:44:37: Uniforms[ 15 ]:
+2021-09-06 05:44:37:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:44:37:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:44:37:   sizeMul: 2, Float, 1
+2021-09-06 05:44:37:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:44:37:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:44:37:   useTexture: 5, Bool, 1
+2021-09-06 05:44:37:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:44:37:   globalColor: 7, Bool, 1
+2021-09-06 05:44:37:   Ka: 8, FloatVec3, 1
+2021-09-06 05:44:37:   Kd: 9, FloatVec3, 1
+2021-09-06 05:44:37:   useNormal: 10, Bool, 1
+2021-09-06 05:44:37:   Ks: 11, FloatVec3, 1
+2021-09-06 05:44:37:   shininess: 12, Float, 1
+2021-09-06 05:44:37:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:44:37:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 05:49:47: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 05:49:47: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 05:49:47: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 05:49:47: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 05:49:47: GLSL program 'default': 3, shaders: 2
+2021-09-06 05:49:47:   VertexShader: 1
+2021-09-06 05:49:47:   FragmentShader: 2
+2021-09-06 05:49:47: Attributes[ 5 ]:
+2021-09-06 05:49:47:   position: 0, FloatVec3, 1
+2021-09-06 05:49:47:   ptSize: 1, Float, 1
+2021-09-06 05:49:47:   texCoords: 2, FloatVec2, 1
+2021-09-06 05:49:47:   normal: 3, FloatVec3, 1
+2021-09-06 05:49:47:   color: 4, FloatVec3, 1
+2021-09-06 05:49:47: Uniforms[ 15 ]:
+2021-09-06 05:49:47:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 05:49:47:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 05:49:47:   sizeMul: 2, Float, 1
+2021-09-06 05:49:47:   lightPosition: 3, FloatVec3, 1
+2021-09-06 05:49:47:   eyePosition: 4, FloatVec3, 1
+2021-09-06 05:49:47:   useTexture: 5, Bool, 1
+2021-09-06 05:49:47:   texSurface: 6, Sampler2D, 1
+2021-09-06 05:49:47:   globalColor: 7, Bool, 1
+2021-09-06 05:49:47:   Ka: 8, FloatVec3, 1
+2021-09-06 05:49:47:   Kd: 9, FloatVec3, 1
+2021-09-06 05:49:47:   useNormal: 10, Bool, 1
+2021-09-06 05:49:47:   Ks: 11, FloatVec3, 1
+2021-09-06 05:49:47:   shininess: 12, Float, 1
+2021-09-06 05:49:47:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 05:49:47:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:14:41: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:14:41: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:14:41: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:14:41: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:14:41: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:14:41:   VertexShader: 1
+2021-09-06 06:14:41:   FragmentShader: 2
+2021-09-06 06:14:41: Attributes[ 5 ]:
+2021-09-06 06:14:41:   position: 0, FloatVec3, 1
+2021-09-06 06:14:41:   ptSize: 1, Float, 1
+2021-09-06 06:14:41:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:14:41:   normal: 3, FloatVec3, 1
+2021-09-06 06:14:41:   color: 4, FloatVec3, 1
+2021-09-06 06:14:41: Uniforms[ 15 ]:
+2021-09-06 06:14:41:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:14:41:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:14:41:   sizeMul: 2, Float, 1
+2021-09-06 06:14:41:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:14:41:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:14:41:   useTexture: 5, Bool, 1
+2021-09-06 06:14:41:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:14:41:   globalColor: 7, Bool, 1
+2021-09-06 06:14:41:   Ka: 8, FloatVec3, 1
+2021-09-06 06:14:41:   Kd: 9, FloatVec3, 1
+2021-09-06 06:14:41:   useNormal: 10, Bool, 1
+2021-09-06 06:14:41:   Ks: 11, FloatVec3, 1
+2021-09-06 06:14:41:   shininess: 12, Float, 1
+2021-09-06 06:14:41:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:14:41:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:15:28: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:15:28: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:15:28: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:15:28: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:15:28: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:15:28:   VertexShader: 1
+2021-09-06 06:15:28:   FragmentShader: 2
+2021-09-06 06:15:28: Attributes[ 5 ]:
+2021-09-06 06:15:28:   position: 0, FloatVec3, 1
+2021-09-06 06:15:28:   ptSize: 1, Float, 1
+2021-09-06 06:15:28:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:15:28:   normal: 3, FloatVec3, 1
+2021-09-06 06:15:28:   color: 4, FloatVec3, 1
+2021-09-06 06:15:28: Uniforms[ 15 ]:
+2021-09-06 06:15:28:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:15:28:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:15:28:   sizeMul: 2, Float, 1
+2021-09-06 06:15:28:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:15:28:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:15:28:   useTexture: 5, Bool, 1
+2021-09-06 06:15:28:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:15:28:   globalColor: 7, Bool, 1
+2021-09-06 06:15:28:   Ka: 8, FloatVec3, 1
+2021-09-06 06:15:28:   Kd: 9, FloatVec3, 1
+2021-09-06 06:15:28:   useNormal: 10, Bool, 1
+2021-09-06 06:15:28:   Ks: 11, FloatVec3, 1
+2021-09-06 06:15:28:   shininess: 12, Float, 1
+2021-09-06 06:15:28:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:15:28:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:16:40: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:16:40: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:16:40: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:16:40: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:16:40: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:16:40:   VertexShader: 1
+2021-09-06 06:16:40:   FragmentShader: 2
+2021-09-06 06:16:40: Attributes[ 5 ]:
+2021-09-06 06:16:40:   position: 0, FloatVec3, 1
+2021-09-06 06:16:40:   ptSize: 1, Float, 1
+2021-09-06 06:16:40:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:16:40:   normal: 3, FloatVec3, 1
+2021-09-06 06:16:40:   color: 4, FloatVec3, 1
+2021-09-06 06:16:40: Uniforms[ 15 ]:
+2021-09-06 06:16:40:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:16:40:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:16:40:   sizeMul: 2, Float, 1
+2021-09-06 06:16:40:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:16:40:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:16:40:   useTexture: 5, Bool, 1
+2021-09-06 06:16:40:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:16:40:   globalColor: 7, Bool, 1
+2021-09-06 06:16:40:   Ka: 8, FloatVec3, 1
+2021-09-06 06:16:40:   Kd: 9, FloatVec3, 1
+2021-09-06 06:16:40:   useNormal: 10, Bool, 1
+2021-09-06 06:16:40:   Ks: 11, FloatVec3, 1
+2021-09-06 06:16:40:   shininess: 12, Float, 1
+2021-09-06 06:16:40:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:16:40:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:17:37: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:17:37: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:17:37: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:17:37: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:17:37: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:17:37:   VertexShader: 1
+2021-09-06 06:17:37:   FragmentShader: 2
+2021-09-06 06:17:37: Attributes[ 5 ]:
+2021-09-06 06:17:37:   position: 0, FloatVec3, 1
+2021-09-06 06:17:37:   ptSize: 1, Float, 1
+2021-09-06 06:17:37:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:17:37:   normal: 3, FloatVec3, 1
+2021-09-06 06:17:37:   color: 4, FloatVec3, 1
+2021-09-06 06:17:37: Uniforms[ 15 ]:
+2021-09-06 06:17:37:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:17:37:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:17:37:   sizeMul: 2, Float, 1
+2021-09-06 06:17:37:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:17:37:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:17:37:   useTexture: 5, Bool, 1
+2021-09-06 06:17:37:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:17:37:   globalColor: 7, Bool, 1
+2021-09-06 06:17:37:   Ka: 8, FloatVec3, 1
+2021-09-06 06:17:37:   Kd: 9, FloatVec3, 1
+2021-09-06 06:17:37:   useNormal: 10, Bool, 1
+2021-09-06 06:17:37:   Ks: 11, FloatVec3, 1
+2021-09-06 06:17:37:   shininess: 12, Float, 1
+2021-09-06 06:17:37:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:17:37:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:18:33: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:18:33: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:18:33: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:18:33: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:18:33: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:18:33:   VertexShader: 1
+2021-09-06 06:18:33:   FragmentShader: 2
+2021-09-06 06:18:33: Attributes[ 5 ]:
+2021-09-06 06:18:33:   position: 0, FloatVec3, 1
+2021-09-06 06:18:33:   ptSize: 1, Float, 1
+2021-09-06 06:18:33:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:18:33:   normal: 3, FloatVec3, 1
+2021-09-06 06:18:33:   color: 4, FloatVec3, 1
+2021-09-06 06:18:33: Uniforms[ 15 ]:
+2021-09-06 06:18:33:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:18:33:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:18:33:   sizeMul: 2, Float, 1
+2021-09-06 06:18:33:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:18:33:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:18:33:   useTexture: 5, Bool, 1
+2021-09-06 06:18:33:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:18:33:   globalColor: 7, Bool, 1
+2021-09-06 06:18:33:   Ka: 8, FloatVec3, 1
+2021-09-06 06:18:33:   Kd: 9, FloatVec3, 1
+2021-09-06 06:18:33:   useNormal: 10, Bool, 1
+2021-09-06 06:18:33:   Ks: 11, FloatVec3, 1
+2021-09-06 06:18:33:   shininess: 12, Float, 1
+2021-09-06 06:18:33:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:18:33:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:19:01: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:19:01: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:19:01: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:19:01: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:19:02: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:19:02:   VertexShader: 1
+2021-09-06 06:19:02:   FragmentShader: 2
+2021-09-06 06:19:02: Attributes[ 5 ]:
+2021-09-06 06:19:02:   position: 0, FloatVec3, 1
+2021-09-06 06:19:02:   ptSize: 1, Float, 1
+2021-09-06 06:19:02:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:19:02:   normal: 3, FloatVec3, 1
+2021-09-06 06:19:02:   color: 4, FloatVec3, 1
+2021-09-06 06:19:02: Uniforms[ 15 ]:
+2021-09-06 06:19:02:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:19:02:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:19:02:   sizeMul: 2, Float, 1
+2021-09-06 06:19:02:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:19:02:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:19:02:   useTexture: 5, Bool, 1
+2021-09-06 06:19:02:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:19:02:   globalColor: 7, Bool, 1
+2021-09-06 06:19:02:   Ka: 8, FloatVec3, 1
+2021-09-06 06:19:02:   Kd: 9, FloatVec3, 1
+2021-09-06 06:19:02:   useNormal: 10, Bool, 1
+2021-09-06 06:19:02:   Ks: 11, FloatVec3, 1
+2021-09-06 06:19:02:   shininess: 12, Float, 1
+2021-09-06 06:19:02:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:19:02:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:19:35: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:19:35: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:19:35: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:19:35: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:19:35: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:19:35:   VertexShader: 1
+2021-09-06 06:19:35:   FragmentShader: 2
+2021-09-06 06:19:35: Attributes[ 5 ]:
+2021-09-06 06:19:35:   position: 0, FloatVec3, 1
+2021-09-06 06:19:35:   ptSize: 1, Float, 1
+2021-09-06 06:19:35:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:19:35:   normal: 3, FloatVec3, 1
+2021-09-06 06:19:35:   color: 4, FloatVec3, 1
+2021-09-06 06:19:35: Uniforms[ 15 ]:
+2021-09-06 06:19:35:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:19:35:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:19:35:   sizeMul: 2, Float, 1
+2021-09-06 06:19:35:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:19:35:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:19:35:   useTexture: 5, Bool, 1
+2021-09-06 06:19:35:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:19:35:   globalColor: 7, Bool, 1
+2021-09-06 06:19:35:   Ka: 8, FloatVec3, 1
+2021-09-06 06:19:35:   Kd: 9, FloatVec3, 1
+2021-09-06 06:19:35:   useNormal: 10, Bool, 1
+2021-09-06 06:19:35:   Ks: 11, FloatVec3, 1
+2021-09-06 06:19:35:   shininess: 12, Float, 1
+2021-09-06 06:19:35:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:19:35:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:21:01: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:21:01: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:21:01: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:21:01: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:21:01: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:21:01:   VertexShader: 1
+2021-09-06 06:21:01:   FragmentShader: 2
+2021-09-06 06:21:01: Attributes[ 5 ]:
+2021-09-06 06:21:01:   position: 0, FloatVec3, 1
+2021-09-06 06:21:01:   ptSize: 1, Float, 1
+2021-09-06 06:21:01:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:21:01:   normal: 3, FloatVec3, 1
+2021-09-06 06:21:01:   color: 4, FloatVec3, 1
+2021-09-06 06:21:01: Uniforms[ 15 ]:
+2021-09-06 06:21:01:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:21:01:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:21:01:   sizeMul: 2, Float, 1
+2021-09-06 06:21:01:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:21:01:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:21:01:   useTexture: 5, Bool, 1
+2021-09-06 06:21:01:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:21:01:   globalColor: 7, Bool, 1
+2021-09-06 06:21:01:   Ka: 8, FloatVec3, 1
+2021-09-06 06:21:01:   Kd: 9, FloatVec3, 1
+2021-09-06 06:21:01:   useNormal: 10, Bool, 1
+2021-09-06 06:21:01:   Ks: 11, FloatVec3, 1
+2021-09-06 06:21:01:   shininess: 12, Float, 1
+2021-09-06 06:21:01:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:21:01:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:24:08: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:24:08: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:24:08: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:24:08: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:24:08: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:24:08:   VertexShader: 1
+2021-09-06 06:24:08:   FragmentShader: 2
+2021-09-06 06:24:08: Attributes[ 5 ]:
+2021-09-06 06:24:08:   position: 0, FloatVec3, 1
+2021-09-06 06:24:08:   ptSize: 1, Float, 1
+2021-09-06 06:24:08:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:24:08:   normal: 3, FloatVec3, 1
+2021-09-06 06:24:08:   color: 4, FloatVec3, 1
+2021-09-06 06:24:08: Uniforms[ 15 ]:
+2021-09-06 06:24:08:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:24:08:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:24:08:   sizeMul: 2, Float, 1
+2021-09-06 06:24:08:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:24:08:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:24:08:   useTexture: 5, Bool, 1
+2021-09-06 06:24:08:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:24:08:   globalColor: 7, Bool, 1
+2021-09-06 06:24:08:   Ka: 8, FloatVec3, 1
+2021-09-06 06:24:08:   Kd: 9, FloatVec3, 1
+2021-09-06 06:24:08:   useNormal: 10, Bool, 1
+2021-09-06 06:24:08:   Ks: 11, FloatVec3, 1
+2021-09-06 06:24:08:   shininess: 12, Float, 1
+2021-09-06 06:24:08:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:24:08:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 06:43:19: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 06:43:19: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 06:43:19: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 06:43:19: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 06:43:19: GLSL program 'default': 3, shaders: 2
+2021-09-06 06:43:19:   VertexShader: 1
+2021-09-06 06:43:19:   FragmentShader: 2
+2021-09-06 06:43:19: Attributes[ 5 ]:
+2021-09-06 06:43:19:   position: 0, FloatVec3, 1
+2021-09-06 06:43:19:   ptSize: 1, Float, 1
+2021-09-06 06:43:19:   texCoords: 2, FloatVec2, 1
+2021-09-06 06:43:19:   normal: 3, FloatVec3, 1
+2021-09-06 06:43:19:   color: 4, FloatVec3, 1
+2021-09-06 06:43:19: Uniforms[ 15 ]:
+2021-09-06 06:43:19:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 06:43:19:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 06:43:19:   sizeMul: 2, Float, 1
+2021-09-06 06:43:19:   lightPosition: 3, FloatVec3, 1
+2021-09-06 06:43:19:   eyePosition: 4, FloatVec3, 1
+2021-09-06 06:43:19:   useTexture: 5, Bool, 1
+2021-09-06 06:43:19:   texSurface: 6, Sampler2D, 1
+2021-09-06 06:43:19:   globalColor: 7, Bool, 1
+2021-09-06 06:43:19:   Ka: 8, FloatVec3, 1
+2021-09-06 06:43:19:   Kd: 9, FloatVec3, 1
+2021-09-06 06:43:19:   useNormal: 10, Bool, 1
+2021-09-06 06:43:19:   Ks: 11, FloatVec3, 1
+2021-09-06 06:43:19:   shininess: 12, Float, 1
+2021-09-06 06:43:19:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 06:43:19:   lightColor: 14, FloatVec3, 1
+
+2021-09-06 18:25:10: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-06 18:25:10: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-06 18:25:10: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-06 18:25:10: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-06 18:25:11: GLSL program 'default': 3, shaders: 2
+2021-09-06 18:25:11:   VertexShader: 1
+2021-09-06 18:25:11:   FragmentShader: 2
+2021-09-06 18:25:11: Attributes[ 5 ]:
+2021-09-06 18:25:11:   position: 0, FloatVec3, 1
+2021-09-06 18:25:11:   ptSize: 1, Float, 1
+2021-09-06 18:25:11:   texCoords: 2, FloatVec2, 1
+2021-09-06 18:25:11:   normal: 3, FloatVec3, 1
+2021-09-06 18:25:11:   color: 4, FloatVec3, 1
+2021-09-06 18:25:11: Uniforms[ 15 ]:
+2021-09-06 18:25:11:   matrixProjection: 0, FloatMat4, 1
+2021-09-06 18:25:11:   matrixModelView: 1, FloatMat4, 1
+2021-09-06 18:25:11:   sizeMul: 2, Float, 1
+2021-09-06 18:25:11:   lightPosition: 3, FloatVec3, 1
+2021-09-06 18:25:11:   eyePosition: 4, FloatVec3, 1
+2021-09-06 18:25:11:   useTexture: 5, Bool, 1
+2021-09-06 18:25:11:   texSurface: 6, Sampler2D, 1
+2021-09-06 18:25:11:   globalColor: 7, Bool, 1
+2021-09-06 18:25:11:   Ka: 8, FloatVec3, 1
+2021-09-06 18:25:11:   Kd: 9, FloatVec3, 1
+2021-09-06 18:25:11:   useNormal: 10, Bool, 1
+2021-09-06 18:25:11:   Ks: 11, FloatVec3, 1
+2021-09-06 18:25:11:   shininess: 12, Float, 1
+2021-09-06 18:25:11:   globalAmbient: 13, FloatVec3, 1
+2021-09-06 18:25:11:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 02:47:10: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 02:47:10: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 02:47:10: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 02:47:10: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 02:47:10: GLSL program 'default': 3, shaders: 2
+2021-09-07 02:47:10:   VertexShader: 1
+2021-09-07 02:47:10:   FragmentShader: 2
+2021-09-07 02:47:10: Attributes[ 5 ]:
+2021-09-07 02:47:10:   position: 0, FloatVec3, 1
+2021-09-07 02:47:10:   ptSize: 1, Float, 1
+2021-09-07 02:47:10:   texCoords: 2, FloatVec2, 1
+2021-09-07 02:47:10:   normal: 3, FloatVec3, 1
+2021-09-07 02:47:10:   color: 4, FloatVec3, 1
+2021-09-07 02:47:10: Uniforms[ 15 ]:
+2021-09-07 02:47:10:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 02:47:10:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 02:47:10:   sizeMul: 2, Float, 1
+2021-09-07 02:47:10:   lightPosition: 3, FloatVec3, 1
+2021-09-07 02:47:10:   eyePosition: 4, FloatVec3, 1
+2021-09-07 02:47:10:   useTexture: 5, Bool, 1
+2021-09-07 02:47:10:   texSurface: 6, Sampler2D, 1
+2021-09-07 02:47:10:   globalColor: 7, Bool, 1
+2021-09-07 02:47:10:   Ka: 8, FloatVec3, 1
+2021-09-07 02:47:10:   Kd: 9, FloatVec3, 1
+2021-09-07 02:47:10:   useNormal: 10, Bool, 1
+2021-09-07 02:47:10:   Ks: 11, FloatVec3, 1
+2021-09-07 02:47:10:   shininess: 12, Float, 1
+2021-09-07 02:47:10:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 02:47:10:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 02:49:30: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 02:49:30: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 02:49:30: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 02:49:30: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 02:49:30: GLSL program 'default': 3, shaders: 2
+2021-09-07 02:49:30:   VertexShader: 1
+2021-09-07 02:49:30:   FragmentShader: 2
+2021-09-07 02:49:30: Attributes[ 5 ]:
+2021-09-07 02:49:30:   position: 0, FloatVec3, 1
+2021-09-07 02:49:30:   ptSize: 1, Float, 1
+2021-09-07 02:49:30:   texCoords: 2, FloatVec2, 1
+2021-09-07 02:49:30:   normal: 3, FloatVec3, 1
+2021-09-07 02:49:30:   color: 4, FloatVec3, 1
+2021-09-07 02:49:30: Uniforms[ 15 ]:
+2021-09-07 02:49:30:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 02:49:30:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 02:49:30:   sizeMul: 2, Float, 1
+2021-09-07 02:49:30:   lightPosition: 3, FloatVec3, 1
+2021-09-07 02:49:30:   eyePosition: 4, FloatVec3, 1
+2021-09-07 02:49:30:   useTexture: 5, Bool, 1
+2021-09-07 02:49:30:   texSurface: 6, Sampler2D, 1
+2021-09-07 02:49:30:   globalColor: 7, Bool, 1
+2021-09-07 02:49:30:   Ka: 8, FloatVec3, 1
+2021-09-07 02:49:30:   Kd: 9, FloatVec3, 1
+2021-09-07 02:49:30:   useNormal: 10, Bool, 1
+2021-09-07 02:49:30:   Ks: 11, FloatVec3, 1
+2021-09-07 02:49:30:   shininess: 12, Float, 1
+2021-09-07 02:49:30:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 02:49:30:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 02:50:12: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 02:50:12: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 02:50:12: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 02:50:12: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 02:50:12: GLSL program 'default': 3, shaders: 2
+2021-09-07 02:50:12:   VertexShader: 1
+2021-09-07 02:50:12:   FragmentShader: 2
+2021-09-07 02:50:12: Attributes[ 5 ]:
+2021-09-07 02:50:12:   position: 0, FloatVec3, 1
+2021-09-07 02:50:12:   ptSize: 1, Float, 1
+2021-09-07 02:50:12:   texCoords: 2, FloatVec2, 1
+2021-09-07 02:50:12:   normal: 3, FloatVec3, 1
+2021-09-07 02:50:12:   color: 4, FloatVec3, 1
+2021-09-07 02:50:12: Uniforms[ 15 ]:
+2021-09-07 02:50:12:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 02:50:12:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 02:50:12:   sizeMul: 2, Float, 1
+2021-09-07 02:50:12:   lightPosition: 3, FloatVec3, 1
+2021-09-07 02:50:12:   eyePosition: 4, FloatVec3, 1
+2021-09-07 02:50:12:   useTexture: 5, Bool, 1
+2021-09-07 02:50:12:   texSurface: 6, Sampler2D, 1
+2021-09-07 02:50:12:   globalColor: 7, Bool, 1
+2021-09-07 02:50:12:   Ka: 8, FloatVec3, 1
+2021-09-07 02:50:12:   Kd: 9, FloatVec3, 1
+2021-09-07 02:50:12:   useNormal: 10, Bool, 1
+2021-09-07 02:50:12:   Ks: 11, FloatVec3, 1
+2021-09-07 02:50:12:   shininess: 12, Float, 1
+2021-09-07 02:50:12:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 02:50:12:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 02:51:11: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 02:51:11: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 02:51:11: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 02:51:11: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 02:51:11: GLSL program 'default': 3, shaders: 2
+2021-09-07 02:51:11:   VertexShader: 1
+2021-09-07 02:51:11:   FragmentShader: 2
+2021-09-07 02:51:11: Attributes[ 5 ]:
+2021-09-07 02:51:11:   position: 0, FloatVec3, 1
+2021-09-07 02:51:11:   ptSize: 1, Float, 1
+2021-09-07 02:51:11:   texCoords: 2, FloatVec2, 1
+2021-09-07 02:51:11:   normal: 3, FloatVec3, 1
+2021-09-07 02:51:11:   color: 4, FloatVec3, 1
+2021-09-07 02:51:11: Uniforms[ 15 ]:
+2021-09-07 02:51:11:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 02:51:11:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 02:51:11:   sizeMul: 2, Float, 1
+2021-09-07 02:51:11:   lightPosition: 3, FloatVec3, 1
+2021-09-07 02:51:11:   eyePosition: 4, FloatVec3, 1
+2021-09-07 02:51:11:   useTexture: 5, Bool, 1
+2021-09-07 02:51:11:   texSurface: 6, Sampler2D, 1
+2021-09-07 02:51:11:   globalColor: 7, Bool, 1
+2021-09-07 02:51:11:   Ka: 8, FloatVec3, 1
+2021-09-07 02:51:11:   Kd: 9, FloatVec3, 1
+2021-09-07 02:51:11:   useNormal: 10, Bool, 1
+2021-09-07 02:51:11:   Ks: 11, FloatVec3, 1
+2021-09-07 02:51:11:   shininess: 12, Float, 1
+2021-09-07 02:51:11:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 02:51:11:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 02:59:32: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 02:59:32: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 02:59:32: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 02:59:32: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 02:59:32: GLSL program 'default': 3, shaders: 2
+2021-09-07 02:59:32:   VertexShader: 1
+2021-09-07 02:59:32:   FragmentShader: 2
+2021-09-07 02:59:32: Attributes[ 5 ]:
+2021-09-07 02:59:32:   position: 0, FloatVec3, 1
+2021-09-07 02:59:32:   ptSize: 1, Float, 1
+2021-09-07 02:59:32:   texCoords: 2, FloatVec2, 1
+2021-09-07 02:59:32:   normal: 3, FloatVec3, 1
+2021-09-07 02:59:32:   color: 4, FloatVec3, 1
+2021-09-07 02:59:32: Uniforms[ 15 ]:
+2021-09-07 02:59:32:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 02:59:32:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 02:59:32:   sizeMul: 2, Float, 1
+2021-09-07 02:59:32:   lightPosition: 3, FloatVec3, 1
+2021-09-07 02:59:32:   eyePosition: 4, FloatVec3, 1
+2021-09-07 02:59:32:   useTexture: 5, Bool, 1
+2021-09-07 02:59:32:   texSurface: 6, Sampler2D, 1
+2021-09-07 02:59:32:   globalColor: 7, Bool, 1
+2021-09-07 02:59:32:   Ka: 8, FloatVec3, 1
+2021-09-07 02:59:32:   Kd: 9, FloatVec3, 1
+2021-09-07 02:59:32:   useNormal: 10, Bool, 1
+2021-09-07 02:59:32:   Ks: 11, FloatVec3, 1
+2021-09-07 02:59:32:   shininess: 12, Float, 1
+2021-09-07 02:59:32:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 02:59:32:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 03:00:40: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 03:00:40: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 03:00:40: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 03:00:40: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 03:00:40: GLSL program 'default': 3, shaders: 2
+2021-09-07 03:00:40:   VertexShader: 1
+2021-09-07 03:00:40:   FragmentShader: 2
+2021-09-07 03:00:40: Attributes[ 5 ]:
+2021-09-07 03:00:40:   position: 0, FloatVec3, 1
+2021-09-07 03:00:40:   ptSize: 1, Float, 1
+2021-09-07 03:00:40:   texCoords: 2, FloatVec2, 1
+2021-09-07 03:00:40:   normal: 3, FloatVec3, 1
+2021-09-07 03:00:40:   color: 4, FloatVec3, 1
+2021-09-07 03:00:40: Uniforms[ 15 ]:
+2021-09-07 03:00:40:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 03:00:40:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 03:00:40:   sizeMul: 2, Float, 1
+2021-09-07 03:00:40:   lightPosition: 3, FloatVec3, 1
+2021-09-07 03:00:40:   eyePosition: 4, FloatVec3, 1
+2021-09-07 03:00:40:   useTexture: 5, Bool, 1
+2021-09-07 03:00:40:   texSurface: 6, Sampler2D, 1
+2021-09-07 03:00:40:   globalColor: 7, Bool, 1
+2021-09-07 03:00:40:   Ka: 8, FloatVec3, 1
+2021-09-07 03:00:40:   Kd: 9, FloatVec3, 1
+2021-09-07 03:00:40:   useNormal: 10, Bool, 1
+2021-09-07 03:00:40:   Ks: 11, FloatVec3, 1
+2021-09-07 03:00:40:   shininess: 12, Float, 1
+2021-09-07 03:00:40:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 03:00:40:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 03:01:29: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 03:01:29: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 03:01:29: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 03:01:29: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 03:01:29: GLSL program 'default': 3, shaders: 2
+2021-09-07 03:01:29:   VertexShader: 1
+2021-09-07 03:01:29:   FragmentShader: 2
+2021-09-07 03:01:29: Attributes[ 5 ]:
+2021-09-07 03:01:29:   position: 0, FloatVec3, 1
+2021-09-07 03:01:29:   ptSize: 1, Float, 1
+2021-09-07 03:01:29:   texCoords: 2, FloatVec2, 1
+2021-09-07 03:01:29:   normal: 3, FloatVec3, 1
+2021-09-07 03:01:29:   color: 4, FloatVec3, 1
+2021-09-07 03:01:29: Uniforms[ 15 ]:
+2021-09-07 03:01:29:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 03:01:29:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 03:01:29:   sizeMul: 2, Float, 1
+2021-09-07 03:01:29:   lightPosition: 3, FloatVec3, 1
+2021-09-07 03:01:29:   eyePosition: 4, FloatVec3, 1
+2021-09-07 03:01:29:   useTexture: 5, Bool, 1
+2021-09-07 03:01:29:   texSurface: 6, Sampler2D, 1
+2021-09-07 03:01:29:   globalColor: 7, Bool, 1
+2021-09-07 03:01:29:   Ka: 8, FloatVec3, 1
+2021-09-07 03:01:29:   Kd: 9, FloatVec3, 1
+2021-09-07 03:01:29:   useNormal: 10, Bool, 1
+2021-09-07 03:01:29:   Ks: 11, FloatVec3, 1
+2021-09-07 03:01:29:   shininess: 12, Float, 1
+2021-09-07 03:01:29:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 03:01:29:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 03:15:35: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 03:15:35: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 03:15:35: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 03:15:35: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 03:15:35: GLSL program 'default': 3, shaders: 2
+2021-09-07 03:15:35:   VertexShader: 1
+2021-09-07 03:15:35:   FragmentShader: 2
+2021-09-07 03:15:35: Attributes[ 5 ]:
+2021-09-07 03:15:35:   position: 0, FloatVec3, 1
+2021-09-07 03:15:35:   ptSize: 1, Float, 1
+2021-09-07 03:15:35:   texCoords: 2, FloatVec2, 1
+2021-09-07 03:15:35:   normal: 3, FloatVec3, 1
+2021-09-07 03:15:35:   color: 4, FloatVec3, 1
+2021-09-07 03:15:35: Uniforms[ 15 ]:
+2021-09-07 03:15:35:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 03:15:35:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 03:15:35:   sizeMul: 2, Float, 1
+2021-09-07 03:15:35:   lightPosition: 3, FloatVec3, 1
+2021-09-07 03:15:35:   eyePosition: 4, FloatVec3, 1
+2021-09-07 03:15:35:   useTexture: 5, Bool, 1
+2021-09-07 03:15:35:   texSurface: 6, Sampler2D, 1
+2021-09-07 03:15:35:   globalColor: 7, Bool, 1
+2021-09-07 03:15:35:   Ka: 8, FloatVec3, 1
+2021-09-07 03:15:35:   Kd: 9, FloatVec3, 1
+2021-09-07 03:15:35:   useNormal: 10, Bool, 1
+2021-09-07 03:15:35:   Ks: 11, FloatVec3, 1
+2021-09-07 03:15:35:   shininess: 12, Float, 1
+2021-09-07 03:15:35:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 03:15:35:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 03:16:16: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 03:16:16: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 03:16:16: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 03:16:16: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 03:16:16: GLSL program 'default': 3, shaders: 2
+2021-09-07 03:16:16:   VertexShader: 1
+2021-09-07 03:16:16:   FragmentShader: 2
+2021-09-07 03:16:16: Attributes[ 5 ]:
+2021-09-07 03:16:16:   position: 0, FloatVec3, 1
+2021-09-07 03:16:16:   ptSize: 1, Float, 1
+2021-09-07 03:16:16:   texCoords: 2, FloatVec2, 1
+2021-09-07 03:16:16:   normal: 3, FloatVec3, 1
+2021-09-07 03:16:16:   color: 4, FloatVec3, 1
+2021-09-07 03:16:16: Uniforms[ 15 ]:
+2021-09-07 03:16:16:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 03:16:16:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 03:16:16:   sizeMul: 2, Float, 1
+2021-09-07 03:16:16:   lightPosition: 3, FloatVec3, 1
+2021-09-07 03:16:16:   eyePosition: 4, FloatVec3, 1
+2021-09-07 03:16:16:   useTexture: 5, Bool, 1
+2021-09-07 03:16:16:   texSurface: 6, Sampler2D, 1
+2021-09-07 03:16:16:   globalColor: 7, Bool, 1
+2021-09-07 03:16:16:   Ka: 8, FloatVec3, 1
+2021-09-07 03:16:16:   Kd: 9, FloatVec3, 1
+2021-09-07 03:16:16:   useNormal: 10, Bool, 1
+2021-09-07 03:16:16:   Ks: 11, FloatVec3, 1
+2021-09-07 03:16:16:   shininess: 12, Float, 1
+2021-09-07 03:16:16:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 03:16:16:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 03:35:59: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 03:35:59: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 03:35:59: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 03:35:59: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 03:35:59: GLSL program 'default': 3, shaders: 2
+2021-09-07 03:35:59:   VertexShader: 1
+2021-09-07 03:35:59:   FragmentShader: 2
+2021-09-07 03:35:59: Attributes[ 5 ]:
+2021-09-07 03:35:59:   position: 0, FloatVec3, 1
+2021-09-07 03:35:59:   ptSize: 1, Float, 1
+2021-09-07 03:35:59:   texCoords: 2, FloatVec2, 1
+2021-09-07 03:35:59:   normal: 3, FloatVec3, 1
+2021-09-07 03:35:59:   color: 4, FloatVec3, 1
+2021-09-07 03:35:59: Uniforms[ 15 ]:
+2021-09-07 03:35:59:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 03:35:59:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 03:35:59:   sizeMul: 2, Float, 1
+2021-09-07 03:35:59:   lightPosition: 3, FloatVec3, 1
+2021-09-07 03:35:59:   eyePosition: 4, FloatVec3, 1
+2021-09-07 03:35:59:   useTexture: 5, Bool, 1
+2021-09-07 03:35:59:   texSurface: 6, Sampler2D, 1
+2021-09-07 03:35:59:   globalColor: 7, Bool, 1
+2021-09-07 03:35:59:   Ka: 8, FloatVec3, 1
+2021-09-07 03:35:59:   Kd: 9, FloatVec3, 1
+2021-09-07 03:35:59:   useNormal: 10, Bool, 1
+2021-09-07 03:35:59:   Ks: 11, FloatVec3, 1
+2021-09-07 03:35:59:   shininess: 12, Float, 1
+2021-09-07 03:35:59:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 03:35:59:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 03:45:23: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 03:45:23: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 03:45:23: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 03:45:23: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 03:45:23: GLSL program 'default': 3, shaders: 2
+2021-09-07 03:45:23:   VertexShader: 1
+2021-09-07 03:45:23:   FragmentShader: 2
+2021-09-07 03:45:23: Attributes[ 5 ]:
+2021-09-07 03:45:23:   position: 0, FloatVec3, 1
+2021-09-07 03:45:23:   ptSize: 1, Float, 1
+2021-09-07 03:45:23:   texCoords: 2, FloatVec2, 1
+2021-09-07 03:45:23:   normal: 3, FloatVec3, 1
+2021-09-07 03:45:23:   color: 4, FloatVec3, 1
+2021-09-07 03:45:23: Uniforms[ 15 ]:
+2021-09-07 03:45:23:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 03:45:23:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 03:45:23:   sizeMul: 2, Float, 1
+2021-09-07 03:45:23:   lightPosition: 3, FloatVec3, 1
+2021-09-07 03:45:23:   eyePosition: 4, FloatVec3, 1
+2021-09-07 03:45:23:   useTexture: 5, Bool, 1
+2021-09-07 03:45:23:   texSurface: 6, Sampler2D, 1
+2021-09-07 03:45:23:   globalColor: 7, Bool, 1
+2021-09-07 03:45:23:   Ka: 8, FloatVec3, 1
+2021-09-07 03:45:23:   Kd: 9, FloatVec3, 1
+2021-09-07 03:45:23:   useNormal: 10, Bool, 1
+2021-09-07 03:45:23:   Ks: 11, FloatVec3, 1
+2021-09-07 03:45:23:   shininess: 12, Float, 1
+2021-09-07 03:45:23:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 03:45:23:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 04:06:01: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 04:06:01: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 04:06:01: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 04:06:01: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 04:06:01: GLSL program 'default': 3, shaders: 2
+2021-09-07 04:06:01:   VertexShader: 1
+2021-09-07 04:06:01:   FragmentShader: 2
+2021-09-07 04:06:01: Attributes[ 5 ]:
+2021-09-07 04:06:01:   position: 0, FloatVec3, 1
+2021-09-07 04:06:01:   ptSize: 1, Float, 1
+2021-09-07 04:06:01:   texCoords: 2, FloatVec2, 1
+2021-09-07 04:06:01:   normal: 3, FloatVec3, 1
+2021-09-07 04:06:01:   color: 4, FloatVec3, 1
+2021-09-07 04:06:01: Uniforms[ 15 ]:
+2021-09-07 04:06:01:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 04:06:01:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 04:06:01:   sizeMul: 2, Float, 1
+2021-09-07 04:06:01:   lightPosition: 3, FloatVec3, 1
+2021-09-07 04:06:01:   eyePosition: 4, FloatVec3, 1
+2021-09-07 04:06:01:   useTexture: 5, Bool, 1
+2021-09-07 04:06:01:   texSurface: 6, Sampler2D, 1
+2021-09-07 04:06:01:   globalColor: 7, Bool, 1
+2021-09-07 04:06:01:   Ka: 8, FloatVec3, 1
+2021-09-07 04:06:01:   Kd: 9, FloatVec3, 1
+2021-09-07 04:06:01:   useNormal: 10, Bool, 1
+2021-09-07 04:06:01:   Ks: 11, FloatVec3, 1
+2021-09-07 04:06:01:   shininess: 12, Float, 1
+2021-09-07 04:06:01:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 04:06:01:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 04:06:34: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 04:06:34: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 04:06:34: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 04:06:34: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 04:06:34: GLSL program 'default': 3, shaders: 2
+2021-09-07 04:06:34:   VertexShader: 1
+2021-09-07 04:06:34:   FragmentShader: 2
+2021-09-07 04:06:34: Attributes[ 5 ]:
+2021-09-07 04:06:34:   position: 0, FloatVec3, 1
+2021-09-07 04:06:34:   ptSize: 1, Float, 1
+2021-09-07 04:06:34:   texCoords: 2, FloatVec2, 1
+2021-09-07 04:06:34:   normal: 3, FloatVec3, 1
+2021-09-07 04:06:34:   color: 4, FloatVec3, 1
+2021-09-07 04:06:34: Uniforms[ 15 ]:
+2021-09-07 04:06:34:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 04:06:34:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 04:06:34:   sizeMul: 2, Float, 1
+2021-09-07 04:06:34:   lightPosition: 3, FloatVec3, 1
+2021-09-07 04:06:34:   eyePosition: 4, FloatVec3, 1
+2021-09-07 04:06:34:   useTexture: 5, Bool, 1
+2021-09-07 04:06:34:   texSurface: 6, Sampler2D, 1
+2021-09-07 04:06:34:   globalColor: 7, Bool, 1
+2021-09-07 04:06:34:   Ka: 8, FloatVec3, 1
+2021-09-07 04:06:34:   Kd: 9, FloatVec3, 1
+2021-09-07 04:06:34:   useNormal: 10, Bool, 1
+2021-09-07 04:06:34:   Ks: 11, FloatVec3, 1
+2021-09-07 04:06:34:   shininess: 12, Float, 1
+2021-09-07 04:06:34:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 04:06:34:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 04:06:52: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 04:06:52: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 04:06:52: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 04:06:52: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 04:06:52: GLSL program 'default': 3, shaders: 2
+2021-09-07 04:06:52:   VertexShader: 1
+2021-09-07 04:06:52:   FragmentShader: 2
+2021-09-07 04:06:52: Attributes[ 5 ]:
+2021-09-07 04:06:52:   position: 0, FloatVec3, 1
+2021-09-07 04:06:52:   ptSize: 1, Float, 1
+2021-09-07 04:06:52:   texCoords: 2, FloatVec2, 1
+2021-09-07 04:06:52:   normal: 3, FloatVec3, 1
+2021-09-07 04:06:52:   color: 4, FloatVec3, 1
+2021-09-07 04:06:52: Uniforms[ 15 ]:
+2021-09-07 04:06:52:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 04:06:52:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 04:06:52:   sizeMul: 2, Float, 1
+2021-09-07 04:06:52:   lightPosition: 3, FloatVec3, 1
+2021-09-07 04:06:52:   eyePosition: 4, FloatVec3, 1
+2021-09-07 04:06:52:   useTexture: 5, Bool, 1
+2021-09-07 04:06:52:   texSurface: 6, Sampler2D, 1
+2021-09-07 04:06:52:   globalColor: 7, Bool, 1
+2021-09-07 04:06:52:   Ka: 8, FloatVec3, 1
+2021-09-07 04:06:52:   Kd: 9, FloatVec3, 1
+2021-09-07 04:06:52:   useNormal: 10, Bool, 1
+2021-09-07 04:06:52:   Ks: 11, FloatVec3, 1
+2021-09-07 04:06:52:   shininess: 12, Float, 1
+2021-09-07 04:06:52:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 04:06:52:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:28:46: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:28:46: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:28:46: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:28:46: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:28:46: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:28:46:   VertexShader: 1
+2021-09-07 05:28:46:   FragmentShader: 2
+2021-09-07 05:28:46: Attributes[ 5 ]:
+2021-09-07 05:28:46:   position: 0, FloatVec3, 1
+2021-09-07 05:28:46:   ptSize: 1, Float, 1
+2021-09-07 05:28:46:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:28:46:   normal: 3, FloatVec3, 1
+2021-09-07 05:28:46:   color: 4, FloatVec3, 1
+2021-09-07 05:28:46: Uniforms[ 15 ]:
+2021-09-07 05:28:46:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:28:46:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:28:46:   sizeMul: 2, Float, 1
+2021-09-07 05:28:46:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:28:46:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:28:46:   useTexture: 5, Bool, 1
+2021-09-07 05:28:46:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:28:46:   globalColor: 7, Bool, 1
+2021-09-07 05:28:46:   Ka: 8, FloatVec3, 1
+2021-09-07 05:28:46:   Kd: 9, FloatVec3, 1
+2021-09-07 05:28:46:   useNormal: 10, Bool, 1
+2021-09-07 05:28:46:   Ks: 11, FloatVec3, 1
+2021-09-07 05:28:46:   shininess: 12, Float, 1
+2021-09-07 05:28:46:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:28:46:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:30:02: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:30:02: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:30:02: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:30:02: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:30:02: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:30:02:   VertexShader: 1
+2021-09-07 05:30:02:   FragmentShader: 2
+2021-09-07 05:30:02: Attributes[ 5 ]:
+2021-09-07 05:30:02:   position: 0, FloatVec3, 1
+2021-09-07 05:30:02:   ptSize: 1, Float, 1
+2021-09-07 05:30:02:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:30:02:   normal: 3, FloatVec3, 1
+2021-09-07 05:30:02:   color: 4, FloatVec3, 1
+2021-09-07 05:30:02: Uniforms[ 15 ]:
+2021-09-07 05:30:02:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:30:02:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:30:02:   sizeMul: 2, Float, 1
+2021-09-07 05:30:02:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:30:02:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:30:02:   useTexture: 5, Bool, 1
+2021-09-07 05:30:02:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:30:02:   globalColor: 7, Bool, 1
+2021-09-07 05:30:02:   Ka: 8, FloatVec3, 1
+2021-09-07 05:30:02:   Kd: 9, FloatVec3, 1
+2021-09-07 05:30:02:   useNormal: 10, Bool, 1
+2021-09-07 05:30:02:   Ks: 11, FloatVec3, 1
+2021-09-07 05:30:02:   shininess: 12, Float, 1
+2021-09-07 05:30:02:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:30:02:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:31:48: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:31:48: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:31:48: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:31:48: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:31:48: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:31:48:   VertexShader: 1
+2021-09-07 05:31:48:   FragmentShader: 2
+2021-09-07 05:31:48: Attributes[ 5 ]:
+2021-09-07 05:31:48:   position: 0, FloatVec3, 1
+2021-09-07 05:31:48:   ptSize: 1, Float, 1
+2021-09-07 05:31:48:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:31:48:   normal: 3, FloatVec3, 1
+2021-09-07 05:31:48:   color: 4, FloatVec3, 1
+2021-09-07 05:31:48: Uniforms[ 15 ]:
+2021-09-07 05:31:48:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:31:48:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:31:48:   sizeMul: 2, Float, 1
+2021-09-07 05:31:48:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:31:48:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:31:48:   useTexture: 5, Bool, 1
+2021-09-07 05:31:48:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:31:48:   globalColor: 7, Bool, 1
+2021-09-07 05:31:48:   Ka: 8, FloatVec3, 1
+2021-09-07 05:31:48:   Kd: 9, FloatVec3, 1
+2021-09-07 05:31:48:   useNormal: 10, Bool, 1
+2021-09-07 05:31:48:   Ks: 11, FloatVec3, 1
+2021-09-07 05:31:48:   shininess: 12, Float, 1
+2021-09-07 05:31:48:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:31:48:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:32:53: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:32:53: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:32:53: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:32:53: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:32:53: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:32:53:   VertexShader: 1
+2021-09-07 05:32:53:   FragmentShader: 2
+2021-09-07 05:32:53: Attributes[ 5 ]:
+2021-09-07 05:32:53:   position: 0, FloatVec3, 1
+2021-09-07 05:32:53:   ptSize: 1, Float, 1
+2021-09-07 05:32:53:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:32:53:   normal: 3, FloatVec3, 1
+2021-09-07 05:32:53:   color: 4, FloatVec3, 1
+2021-09-07 05:32:53: Uniforms[ 15 ]:
+2021-09-07 05:32:53:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:32:53:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:32:53:   sizeMul: 2, Float, 1
+2021-09-07 05:32:53:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:32:53:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:32:53:   useTexture: 5, Bool, 1
+2021-09-07 05:32:53:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:32:53:   globalColor: 7, Bool, 1
+2021-09-07 05:32:53:   Ka: 8, FloatVec3, 1
+2021-09-07 05:32:53:   Kd: 9, FloatVec3, 1
+2021-09-07 05:32:53:   useNormal: 10, Bool, 1
+2021-09-07 05:32:53:   Ks: 11, FloatVec3, 1
+2021-09-07 05:32:53:   shininess: 12, Float, 1
+2021-09-07 05:32:53:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:32:53:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:34:26: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:34:26: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:34:26: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:34:26: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:34:26: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:34:26:   VertexShader: 1
+2021-09-07 05:34:26:   FragmentShader: 2
+2021-09-07 05:34:26: Attributes[ 5 ]:
+2021-09-07 05:34:26:   position: 0, FloatVec3, 1
+2021-09-07 05:34:26:   ptSize: 1, Float, 1
+2021-09-07 05:34:26:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:34:26:   normal: 3, FloatVec3, 1
+2021-09-07 05:34:26:   color: 4, FloatVec3, 1
+2021-09-07 05:34:26: Uniforms[ 15 ]:
+2021-09-07 05:34:26:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:34:26:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:34:26:   sizeMul: 2, Float, 1
+2021-09-07 05:34:26:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:34:26:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:34:26:   useTexture: 5, Bool, 1
+2021-09-07 05:34:26:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:34:26:   globalColor: 7, Bool, 1
+2021-09-07 05:34:26:   Ka: 8, FloatVec3, 1
+2021-09-07 05:34:26:   Kd: 9, FloatVec3, 1
+2021-09-07 05:34:26:   useNormal: 10, Bool, 1
+2021-09-07 05:34:26:   Ks: 11, FloatVec3, 1
+2021-09-07 05:34:26:   shininess: 12, Float, 1
+2021-09-07 05:34:26:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:34:26:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:35:46: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:35:46: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:35:46: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:35:46: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:35:46: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:35:46:   VertexShader: 1
+2021-09-07 05:35:46:   FragmentShader: 2
+2021-09-07 05:35:46: Attributes[ 5 ]:
+2021-09-07 05:35:46:   position: 0, FloatVec3, 1
+2021-09-07 05:35:46:   ptSize: 1, Float, 1
+2021-09-07 05:35:46:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:35:46:   normal: 3, FloatVec3, 1
+2021-09-07 05:35:46:   color: 4, FloatVec3, 1
+2021-09-07 05:35:46: Uniforms[ 15 ]:
+2021-09-07 05:35:46:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:35:46:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:35:46:   sizeMul: 2, Float, 1
+2021-09-07 05:35:46:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:35:46:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:35:46:   useTexture: 5, Bool, 1
+2021-09-07 05:35:46:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:35:46:   globalColor: 7, Bool, 1
+2021-09-07 05:35:46:   Ka: 8, FloatVec3, 1
+2021-09-07 05:35:46:   Kd: 9, FloatVec3, 1
+2021-09-07 05:35:46:   useNormal: 10, Bool, 1
+2021-09-07 05:35:46:   Ks: 11, FloatVec3, 1
+2021-09-07 05:35:46:   shininess: 12, Float, 1
+2021-09-07 05:35:46:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:35:46:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:37:57: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:37:57: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:37:57: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:37:57: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:37:57: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:37:57:   VertexShader: 1
+2021-09-07 05:37:57:   FragmentShader: 2
+2021-09-07 05:37:57: Attributes[ 5 ]:
+2021-09-07 05:37:57:   position: 0, FloatVec3, 1
+2021-09-07 05:37:57:   ptSize: 1, Float, 1
+2021-09-07 05:37:57:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:37:57:   normal: 3, FloatVec3, 1
+2021-09-07 05:37:57:   color: 4, FloatVec3, 1
+2021-09-07 05:37:57: Uniforms[ 15 ]:
+2021-09-07 05:37:57:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:37:57:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:37:57:   sizeMul: 2, Float, 1
+2021-09-07 05:37:57:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:37:57:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:37:57:   useTexture: 5, Bool, 1
+2021-09-07 05:37:57:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:37:57:   globalColor: 7, Bool, 1
+2021-09-07 05:37:57:   Ka: 8, FloatVec3, 1
+2021-09-07 05:37:57:   Kd: 9, FloatVec3, 1
+2021-09-07 05:37:57:   useNormal: 10, Bool, 1
+2021-09-07 05:37:57:   Ks: 11, FloatVec3, 1
+2021-09-07 05:37:57:   shininess: 12, Float, 1
+2021-09-07 05:37:57:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:37:57:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:38:18: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:38:18: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:38:18: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:38:18: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:38:18: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:38:18:   VertexShader: 1
+2021-09-07 05:38:18:   FragmentShader: 2
+2021-09-07 05:38:18: Attributes[ 5 ]:
+2021-09-07 05:38:18:   position: 0, FloatVec3, 1
+2021-09-07 05:38:18:   ptSize: 1, Float, 1
+2021-09-07 05:38:18:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:38:18:   normal: 3, FloatVec3, 1
+2021-09-07 05:38:18:   color: 4, FloatVec3, 1
+2021-09-07 05:38:18: Uniforms[ 15 ]:
+2021-09-07 05:38:18:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:38:18:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:38:18:   sizeMul: 2, Float, 1
+2021-09-07 05:38:18:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:38:18:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:38:18:   useTexture: 5, Bool, 1
+2021-09-07 05:38:18:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:38:18:   globalColor: 7, Bool, 1
+2021-09-07 05:38:18:   Ka: 8, FloatVec3, 1
+2021-09-07 05:38:18:   Kd: 9, FloatVec3, 1
+2021-09-07 05:38:18:   useNormal: 10, Bool, 1
+2021-09-07 05:38:18:   Ks: 11, FloatVec3, 1
+2021-09-07 05:38:18:   shininess: 12, Float, 1
+2021-09-07 05:38:18:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:38:18:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:40:36: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:40:36: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:40:36: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:40:36: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:40:36: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:40:36:   VertexShader: 1
+2021-09-07 05:40:36:   FragmentShader: 2
+2021-09-07 05:40:36: Attributes[ 5 ]:
+2021-09-07 05:40:36:   position: 0, FloatVec3, 1
+2021-09-07 05:40:36:   ptSize: 1, Float, 1
+2021-09-07 05:40:36:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:40:36:   normal: 3, FloatVec3, 1
+2021-09-07 05:40:36:   color: 4, FloatVec3, 1
+2021-09-07 05:40:36: Uniforms[ 15 ]:
+2021-09-07 05:40:36:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:40:36:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:40:36:   sizeMul: 2, Float, 1
+2021-09-07 05:40:36:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:40:36:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:40:36:   useTexture: 5, Bool, 1
+2021-09-07 05:40:36:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:40:36:   globalColor: 7, Bool, 1
+2021-09-07 05:40:36:   Ka: 8, FloatVec3, 1
+2021-09-07 05:40:36:   Kd: 9, FloatVec3, 1
+2021-09-07 05:40:36:   useNormal: 10, Bool, 1
+2021-09-07 05:40:36:   Ks: 11, FloatVec3, 1
+2021-09-07 05:40:36:   shininess: 12, Float, 1
+2021-09-07 05:40:36:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:40:36:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:41:43: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:41:43: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:41:43: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:41:43: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:41:43: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:41:43:   VertexShader: 1
+2021-09-07 05:41:43:   FragmentShader: 2
+2021-09-07 05:41:43: Attributes[ 5 ]:
+2021-09-07 05:41:43:   position: 0, FloatVec3, 1
+2021-09-07 05:41:43:   ptSize: 1, Float, 1
+2021-09-07 05:41:43:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:41:43:   normal: 3, FloatVec3, 1
+2021-09-07 05:41:43:   color: 4, FloatVec3, 1
+2021-09-07 05:41:43: Uniforms[ 15 ]:
+2021-09-07 05:41:43:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:41:43:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:41:43:   sizeMul: 2, Float, 1
+2021-09-07 05:41:44:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:41:44:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:41:44:   useTexture: 5, Bool, 1
+2021-09-07 05:41:44:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:41:44:   globalColor: 7, Bool, 1
+2021-09-07 05:41:44:   Ka: 8, FloatVec3, 1
+2021-09-07 05:41:44:   Kd: 9, FloatVec3, 1
+2021-09-07 05:41:44:   useNormal: 10, Bool, 1
+2021-09-07 05:41:44:   Ks: 11, FloatVec3, 1
+2021-09-07 05:41:44:   shininess: 12, Float, 1
+2021-09-07 05:41:44:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:41:44:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:43:44: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:43:44: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:43:44: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:43:44: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:43:44: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:43:44:   VertexShader: 1
+2021-09-07 05:43:44:   FragmentShader: 2
+2021-09-07 05:43:44: Attributes[ 5 ]:
+2021-09-07 05:43:44:   position: 0, FloatVec3, 1
+2021-09-07 05:43:44:   ptSize: 1, Float, 1
+2021-09-07 05:43:44:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:43:44:   normal: 3, FloatVec3, 1
+2021-09-07 05:43:44:   color: 4, FloatVec3, 1
+2021-09-07 05:43:44: Uniforms[ 15 ]:
+2021-09-07 05:43:44:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:43:44:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:43:44:   sizeMul: 2, Float, 1
+2021-09-07 05:43:44:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:43:44:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:43:44:   useTexture: 5, Bool, 1
+2021-09-07 05:43:44:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:43:44:   globalColor: 7, Bool, 1
+2021-09-07 05:43:44:   Ka: 8, FloatVec3, 1
+2021-09-07 05:43:44:   Kd: 9, FloatVec3, 1
+2021-09-07 05:43:44:   useNormal: 10, Bool, 1
+2021-09-07 05:43:44:   Ks: 11, FloatVec3, 1
+2021-09-07 05:43:44:   shininess: 12, Float, 1
+2021-09-07 05:43:44:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:43:44:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:45:09: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:45:09: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:45:09: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:45:09: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:45:09: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:45:09:   VertexShader: 1
+2021-09-07 05:45:09:   FragmentShader: 2
+2021-09-07 05:45:09: Attributes[ 5 ]:
+2021-09-07 05:45:09:   position: 0, FloatVec3, 1
+2021-09-07 05:45:09:   ptSize: 1, Float, 1
+2021-09-07 05:45:09:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:45:09:   normal: 3, FloatVec3, 1
+2021-09-07 05:45:09:   color: 4, FloatVec3, 1
+2021-09-07 05:45:09: Uniforms[ 15 ]:
+2021-09-07 05:45:09:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:45:09:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:45:09:   sizeMul: 2, Float, 1
+2021-09-07 05:45:09:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:45:09:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:45:09:   useTexture: 5, Bool, 1
+2021-09-07 05:45:09:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:45:09:   globalColor: 7, Bool, 1
+2021-09-07 05:45:09:   Ka: 8, FloatVec3, 1
+2021-09-07 05:45:09:   Kd: 9, FloatVec3, 1
+2021-09-07 05:45:09:   useNormal: 10, Bool, 1
+2021-09-07 05:45:09:   Ks: 11, FloatVec3, 1
+2021-09-07 05:45:09:   shininess: 12, Float, 1
+2021-09-07 05:45:09:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:45:09:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:47:27: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:47:27: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:47:27: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:47:27: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:47:28: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:47:28:   VertexShader: 1
+2021-09-07 05:47:28:   FragmentShader: 2
+2021-09-07 05:47:28: Attributes[ 5 ]:
+2021-09-07 05:47:28:   position: 0, FloatVec3, 1
+2021-09-07 05:47:28:   ptSize: 1, Float, 1
+2021-09-07 05:47:28:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:47:28:   normal: 3, FloatVec3, 1
+2021-09-07 05:47:28:   color: 4, FloatVec3, 1
+2021-09-07 05:47:28: Uniforms[ 15 ]:
+2021-09-07 05:47:28:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:47:28:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:47:28:   sizeMul: 2, Float, 1
+2021-09-07 05:47:28:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:47:28:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:47:28:   useTexture: 5, Bool, 1
+2021-09-07 05:47:28:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:47:28:   globalColor: 7, Bool, 1
+2021-09-07 05:47:28:   Ka: 8, FloatVec3, 1
+2021-09-07 05:47:28:   Kd: 9, FloatVec3, 1
+2021-09-07 05:47:28:   useNormal: 10, Bool, 1
+2021-09-07 05:47:28:   Ks: 11, FloatVec3, 1
+2021-09-07 05:47:28:   shininess: 12, Float, 1
+2021-09-07 05:47:28:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:47:28:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:57:47: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:57:47: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:57:47: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:57:47: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:57:47: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:57:47:   VertexShader: 1
+2021-09-07 05:57:47:   FragmentShader: 2
+2021-09-07 05:57:47: Attributes[ 5 ]:
+2021-09-07 05:57:47:   position: 0, FloatVec3, 1
+2021-09-07 05:57:47:   ptSize: 1, Float, 1
+2021-09-07 05:57:47:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:57:47:   normal: 3, FloatVec3, 1
+2021-09-07 05:57:47:   color: 4, FloatVec3, 1
+2021-09-07 05:57:47: Uniforms[ 15 ]:
+2021-09-07 05:57:47:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:57:47:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:57:47:   sizeMul: 2, Float, 1
+2021-09-07 05:57:47:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:57:47:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:57:47:   useTexture: 5, Bool, 1
+2021-09-07 05:57:47:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:57:47:   globalColor: 7, Bool, 1
+2021-09-07 05:57:47:   Ka: 8, FloatVec3, 1
+2021-09-07 05:57:47:   Kd: 9, FloatVec3, 1
+2021-09-07 05:57:47:   useNormal: 10, Bool, 1
+2021-09-07 05:57:47:   Ks: 11, FloatVec3, 1
+2021-09-07 05:57:47:   shininess: 12, Float, 1
+2021-09-07 05:57:47:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:57:47:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:58:59: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:58:59: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:58:59: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:58:59: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:58:59: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:58:59:   VertexShader: 1
+2021-09-07 05:58:59:   FragmentShader: 2
+2021-09-07 05:58:59: Attributes[ 5 ]:
+2021-09-07 05:58:59:   position: 0, FloatVec3, 1
+2021-09-07 05:58:59:   ptSize: 1, Float, 1
+2021-09-07 05:58:59:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:58:59:   normal: 3, FloatVec3, 1
+2021-09-07 05:58:59:   color: 4, FloatVec3, 1
+2021-09-07 05:58:59: Uniforms[ 15 ]:
+2021-09-07 05:58:59:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:58:59:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:58:59:   sizeMul: 2, Float, 1
+2021-09-07 05:58:59:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:58:59:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:58:59:   useTexture: 5, Bool, 1
+2021-09-07 05:58:59:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:58:59:   globalColor: 7, Bool, 1
+2021-09-07 05:58:59:   Ka: 8, FloatVec3, 1
+2021-09-07 05:58:59:   Kd: 9, FloatVec3, 1
+2021-09-07 05:58:59:   useNormal: 10, Bool, 1
+2021-09-07 05:58:59:   Ks: 11, FloatVec3, 1
+2021-09-07 05:58:59:   shininess: 12, Float, 1
+2021-09-07 05:58:59:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:58:59:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 05:59:56: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 05:59:56: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 05:59:56: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 05:59:56: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 05:59:56: GLSL program 'default': 3, shaders: 2
+2021-09-07 05:59:56:   VertexShader: 1
+2021-09-07 05:59:56:   FragmentShader: 2
+2021-09-07 05:59:56: Attributes[ 5 ]:
+2021-09-07 05:59:56:   position: 0, FloatVec3, 1
+2021-09-07 05:59:56:   ptSize: 1, Float, 1
+2021-09-07 05:59:56:   texCoords: 2, FloatVec2, 1
+2021-09-07 05:59:56:   normal: 3, FloatVec3, 1
+2021-09-07 05:59:56:   color: 4, FloatVec3, 1
+2021-09-07 05:59:56: Uniforms[ 15 ]:
+2021-09-07 05:59:56:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 05:59:56:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 05:59:56:   sizeMul: 2, Float, 1
+2021-09-07 05:59:56:   lightPosition: 3, FloatVec3, 1
+2021-09-07 05:59:56:   eyePosition: 4, FloatVec3, 1
+2021-09-07 05:59:56:   useTexture: 5, Bool, 1
+2021-09-07 05:59:56:   texSurface: 6, Sampler2D, 1
+2021-09-07 05:59:56:   globalColor: 7, Bool, 1
+2021-09-07 05:59:56:   Ka: 8, FloatVec3, 1
+2021-09-07 05:59:56:   Kd: 9, FloatVec3, 1
+2021-09-07 05:59:56:   useNormal: 10, Bool, 1
+2021-09-07 05:59:56:   Ks: 11, FloatVec3, 1
+2021-09-07 05:59:56:   shininess: 12, Float, 1
+2021-09-07 05:59:56:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 05:59:56:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:00:24: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:00:24: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:00:24: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:00:24: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:00:24: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:00:24:   VertexShader: 1
+2021-09-07 06:00:24:   FragmentShader: 2
+2021-09-07 06:00:24: Attributes[ 5 ]:
+2021-09-07 06:00:24:   position: 0, FloatVec3, 1
+2021-09-07 06:00:24:   ptSize: 1, Float, 1
+2021-09-07 06:00:24:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:00:24:   normal: 3, FloatVec3, 1
+2021-09-07 06:00:24:   color: 4, FloatVec3, 1
+2021-09-07 06:00:24: Uniforms[ 15 ]:
+2021-09-07 06:00:24:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:00:24:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:00:24:   sizeMul: 2, Float, 1
+2021-09-07 06:00:24:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:00:24:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:00:24:   useTexture: 5, Bool, 1
+2021-09-07 06:00:24:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:00:24:   globalColor: 7, Bool, 1
+2021-09-07 06:00:24:   Ka: 8, FloatVec3, 1
+2021-09-07 06:00:24:   Kd: 9, FloatVec3, 1
+2021-09-07 06:00:24:   useNormal: 10, Bool, 1
+2021-09-07 06:00:24:   Ks: 11, FloatVec3, 1
+2021-09-07 06:00:24:   shininess: 12, Float, 1
+2021-09-07 06:00:24:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:00:24:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:06:23: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:06:23: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:06:23: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:06:23: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:06:23: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:06:23:   VertexShader: 1
+2021-09-07 06:06:23:   FragmentShader: 2
+2021-09-07 06:06:23: Attributes[ 5 ]:
+2021-09-07 06:06:23:   position: 0, FloatVec3, 1
+2021-09-07 06:06:23:   ptSize: 1, Float, 1
+2021-09-07 06:06:23:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:06:23:   normal: 3, FloatVec3, 1
+2021-09-07 06:06:23:   color: 4, FloatVec3, 1
+2021-09-07 06:06:23: Uniforms[ 15 ]:
+2021-09-07 06:06:23:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:06:23:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:06:23:   sizeMul: 2, Float, 1
+2021-09-07 06:06:23:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:06:23:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:06:23:   useTexture: 5, Bool, 1
+2021-09-07 06:06:23:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:06:23:   globalColor: 7, Bool, 1
+2021-09-07 06:06:23:   Ka: 8, FloatVec3, 1
+2021-09-07 06:06:23:   Kd: 9, FloatVec3, 1
+2021-09-07 06:06:23:   useNormal: 10, Bool, 1
+2021-09-07 06:06:23:   Ks: 11, FloatVec3, 1
+2021-09-07 06:06:23:   shininess: 12, Float, 1
+2021-09-07 06:06:23:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:06:23:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:08:29: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:08:29: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:08:29: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:08:29: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:08:29: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:08:29:   VertexShader: 1
+2021-09-07 06:08:29:   FragmentShader: 2
+2021-09-07 06:08:29: Attributes[ 5 ]:
+2021-09-07 06:08:29:   position: 0, FloatVec3, 1
+2021-09-07 06:08:29:   ptSize: 1, Float, 1
+2021-09-07 06:08:29:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:08:29:   normal: 3, FloatVec3, 1
+2021-09-07 06:08:29:   color: 4, FloatVec3, 1
+2021-09-07 06:08:29: Uniforms[ 15 ]:
+2021-09-07 06:08:29:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:08:29:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:08:29:   sizeMul: 2, Float, 1
+2021-09-07 06:08:29:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:08:29:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:08:29:   useTexture: 5, Bool, 1
+2021-09-07 06:08:29:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:08:29:   globalColor: 7, Bool, 1
+2021-09-07 06:08:29:   Ka: 8, FloatVec3, 1
+2021-09-07 06:08:29:   Kd: 9, FloatVec3, 1
+2021-09-07 06:08:29:   useNormal: 10, Bool, 1
+2021-09-07 06:08:29:   Ks: 11, FloatVec3, 1
+2021-09-07 06:08:29:   shininess: 12, Float, 1
+2021-09-07 06:08:29:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:08:29:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:30:15: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:30:15: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:30:15: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:30:15: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:30:15: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:30:15:   VertexShader: 1
+2021-09-07 06:30:15:   FragmentShader: 2
+2021-09-07 06:30:15: Attributes[ 5 ]:
+2021-09-07 06:30:15:   position: 0, FloatVec3, 1
+2021-09-07 06:30:15:   ptSize: 1, Float, 1
+2021-09-07 06:30:15:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:30:15:   normal: 3, FloatVec3, 1
+2021-09-07 06:30:15:   color: 4, FloatVec3, 1
+2021-09-07 06:30:15: Uniforms[ 15 ]:
+2021-09-07 06:30:15:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:30:15:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:30:15:   sizeMul: 2, Float, 1
+2021-09-07 06:30:15:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:30:15:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:30:15:   useTexture: 5, Bool, 1
+2021-09-07 06:30:15:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:30:15:   globalColor: 7, Bool, 1
+2021-09-07 06:30:15:   Ka: 8, FloatVec3, 1
+2021-09-07 06:30:15:   Kd: 9, FloatVec3, 1
+2021-09-07 06:30:15:   useNormal: 10, Bool, 1
+2021-09-07 06:30:15:   Ks: 11, FloatVec3, 1
+2021-09-07 06:30:15:   shininess: 12, Float, 1
+2021-09-07 06:30:15:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:30:15:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:33:56: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:33:56: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:33:56: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:33:56: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:33:56: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:33:56:   VertexShader: 1
+2021-09-07 06:33:56:   FragmentShader: 2
+2021-09-07 06:33:56: Attributes[ 5 ]:
+2021-09-07 06:33:56:   position: 0, FloatVec3, 1
+2021-09-07 06:33:56:   ptSize: 1, Float, 1
+2021-09-07 06:33:56:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:33:56:   normal: 3, FloatVec3, 1
+2021-09-07 06:33:56:   color: 4, FloatVec3, 1
+2021-09-07 06:33:56: Uniforms[ 15 ]:
+2021-09-07 06:33:56:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:33:56:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:33:56:   sizeMul: 2, Float, 1
+2021-09-07 06:33:56:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:33:56:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:33:56:   useTexture: 5, Bool, 1
+2021-09-07 06:33:56:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:33:56:   globalColor: 7, Bool, 1
+2021-09-07 06:33:56:   Ka: 8, FloatVec3, 1
+2021-09-07 06:33:56:   Kd: 9, FloatVec3, 1
+2021-09-07 06:33:56:   useNormal: 10, Bool, 1
+2021-09-07 06:33:56:   Ks: 11, FloatVec3, 1
+2021-09-07 06:33:56:   shininess: 12, Float, 1
+2021-09-07 06:33:56:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:33:56:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:36:06: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:36:06: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:36:06: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:36:06: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:36:06: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:36:06:   VertexShader: 1
+2021-09-07 06:36:06:   FragmentShader: 2
+2021-09-07 06:36:06: Attributes[ 5 ]:
+2021-09-07 06:36:06:   position: 0, FloatVec3, 1
+2021-09-07 06:36:06:   ptSize: 1, Float, 1
+2021-09-07 06:36:06:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:36:06:   normal: 3, FloatVec3, 1
+2021-09-07 06:36:06:   color: 4, FloatVec3, 1
+2021-09-07 06:36:06: Uniforms[ 15 ]:
+2021-09-07 06:36:06:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:36:06:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:36:06:   sizeMul: 2, Float, 1
+2021-09-07 06:36:06:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:36:06:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:36:06:   useTexture: 5, Bool, 1
+2021-09-07 06:36:06:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:36:06:   globalColor: 7, Bool, 1
+2021-09-07 06:36:06:   Ka: 8, FloatVec3, 1
+2021-09-07 06:36:06:   Kd: 9, FloatVec3, 1
+2021-09-07 06:36:06:   useNormal: 10, Bool, 1
+2021-09-07 06:36:06:   Ks: 11, FloatVec3, 1
+2021-09-07 06:36:06:   shininess: 12, Float, 1
+2021-09-07 06:36:06:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:36:06:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:37:06: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:37:06: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:37:06: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:37:06: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:37:06: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:37:06:   VertexShader: 1
+2021-09-07 06:37:06:   FragmentShader: 2
+2021-09-07 06:37:06: Attributes[ 5 ]:
+2021-09-07 06:37:06:   position: 0, FloatVec3, 1
+2021-09-07 06:37:06:   ptSize: 1, Float, 1
+2021-09-07 06:37:06:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:37:06:   normal: 3, FloatVec3, 1
+2021-09-07 06:37:06:   color: 4, FloatVec3, 1
+2021-09-07 06:37:06: Uniforms[ 15 ]:
+2021-09-07 06:37:06:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:37:06:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:37:06:   sizeMul: 2, Float, 1
+2021-09-07 06:37:06:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:37:06:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:37:06:   useTexture: 5, Bool, 1
+2021-09-07 06:37:06:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:37:06:   globalColor: 7, Bool, 1
+2021-09-07 06:37:06:   Ka: 8, FloatVec3, 1
+2021-09-07 06:37:06:   Kd: 9, FloatVec3, 1
+2021-09-07 06:37:06:   useNormal: 10, Bool, 1
+2021-09-07 06:37:06:   Ks: 11, FloatVec3, 1
+2021-09-07 06:37:06:   shininess: 12, Float, 1
+2021-09-07 06:37:06:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:37:06:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 06:47:00: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 06:47:00: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 06:47:00: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 06:47:00: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 06:47:00: GLSL program 'default': 3, shaders: 2
+2021-09-07 06:47:00:   VertexShader: 1
+2021-09-07 06:47:00:   FragmentShader: 2
+2021-09-07 06:47:00: Attributes[ 5 ]:
+2021-09-07 06:47:00:   position: 0, FloatVec3, 1
+2021-09-07 06:47:00:   ptSize: 1, Float, 1
+2021-09-07 06:47:00:   texCoords: 2, FloatVec2, 1
+2021-09-07 06:47:00:   normal: 3, FloatVec3, 1
+2021-09-07 06:47:00:   color: 4, FloatVec3, 1
+2021-09-07 06:47:00: Uniforms[ 15 ]:
+2021-09-07 06:47:00:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 06:47:00:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 06:47:00:   sizeMul: 2, Float, 1
+2021-09-07 06:47:00:   lightPosition: 3, FloatVec3, 1
+2021-09-07 06:47:00:   eyePosition: 4, FloatVec3, 1
+2021-09-07 06:47:00:   useTexture: 5, Bool, 1
+2021-09-07 06:47:00:   texSurface: 6, Sampler2D, 1
+2021-09-07 06:47:00:   globalColor: 7, Bool, 1
+2021-09-07 06:47:00:   Ka: 8, FloatVec3, 1
+2021-09-07 06:47:00:   Kd: 9, FloatVec3, 1
+2021-09-07 06:47:00:   useNormal: 10, Bool, 1
+2021-09-07 06:47:00:   Ks: 11, FloatVec3, 1
+2021-09-07 06:47:00:   shininess: 12, Float, 1
+2021-09-07 06:47:00:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 06:47:00:   lightColor: 14, FloatVec3, 1
+
+2021-09-07 21:33:54: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-07 21:33:54: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-07 21:33:54: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-07 21:33:54: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-07 21:33:54: GLSL program 'default': 3, shaders: 2
+2021-09-07 21:33:54:   VertexShader: 1
+2021-09-07 21:33:54:   FragmentShader: 2
+2021-09-07 21:33:54: Attributes[ 5 ]:
+2021-09-07 21:33:54:   position: 0, FloatVec3, 1
+2021-09-07 21:33:54:   ptSize: 1, Float, 1
+2021-09-07 21:33:54:   texCoords: 2, FloatVec2, 1
+2021-09-07 21:33:54:   normal: 3, FloatVec3, 1
+2021-09-07 21:33:54:   color: 4, FloatVec3, 1
+2021-09-07 21:33:54: Uniforms[ 15 ]:
+2021-09-07 21:33:54:   matrixProjection: 0, FloatMat4, 1
+2021-09-07 21:33:54:   matrixModelView: 1, FloatMat4, 1
+2021-09-07 21:33:54:   sizeMul: 2, Float, 1
+2021-09-07 21:33:54:   lightPosition: 3, FloatVec3, 1
+2021-09-07 21:33:54:   eyePosition: 4, FloatVec3, 1
+2021-09-07 21:33:54:   useTexture: 5, Bool, 1
+2021-09-07 21:33:54:   texSurface: 6, Sampler2D, 1
+2021-09-07 21:33:54:   globalColor: 7, Bool, 1
+2021-09-07 21:33:54:   Ka: 8, FloatVec3, 1
+2021-09-07 21:33:54:   Kd: 9, FloatVec3, 1
+2021-09-07 21:33:54:   useNormal: 10, Bool, 1
+2021-09-07 21:33:54:   Ks: 11, FloatVec3, 1
+2021-09-07 21:33:54:   shininess: 12, Float, 1
+2021-09-07 21:33:54:   globalAmbient: 13, FloatVec3, 1
+2021-09-07 21:33:54:   lightColor: 14, FloatVec3, 1
+
+2021-09-09 20:39:44: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-09 20:39:44: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-09 20:39:44: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-09 20:39:44: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-09 20:39:44: GLSL program 'default': 3, shaders: 2
+2021-09-09 20:39:44:   VertexShader: 1
+2021-09-09 20:39:44:   FragmentShader: 2
+2021-09-09 20:39:44: Attributes[ 5 ]:
+2021-09-09 20:39:44:   position: 0, FloatVec3, 1
+2021-09-09 20:39:44:   ptSize: 1, Float, 1
+2021-09-09 20:39:44:   texCoords: 2, FloatVec2, 1
+2021-09-09 20:39:44:   normal: 3, FloatVec3, 1
+2021-09-09 20:39:44:   color: 4, FloatVec3, 1
+2021-09-09 20:39:44: Uniforms[ 15 ]:
+2021-09-09 20:39:44:   matrixProjection: 0, FloatMat4, 1
+2021-09-09 20:39:44:   matrixModelView: 1, FloatMat4, 1
+2021-09-09 20:39:44:   sizeMul: 2, Float, 1
+2021-09-09 20:39:44:   lightPosition: 3, FloatVec3, 1
+2021-09-09 20:39:44:   eyePosition: 4, FloatVec3, 1
+2021-09-09 20:39:44:   useTexture: 5, Bool, 1
+2021-09-09 20:39:44:   texSurface: 6, Sampler2D, 1
+2021-09-09 20:39:44:   globalColor: 7, Bool, 1
+2021-09-09 20:39:44:   Ka: 8, FloatVec3, 1
+2021-09-09 20:39:44:   Kd: 9, FloatVec3, 1
+2021-09-09 20:39:44:   useNormal: 10, Bool, 1
+2021-09-09 20:39:44:   Ks: 11, FloatVec3, 1
+2021-09-09 20:39:44:   shininess: 12, Float, 1
+2021-09-09 20:39:44:   globalAmbient: 13, FloatVec3, 1
+2021-09-09 20:39:44:   lightColor: 14, FloatVec3, 1
+
+2021-09-15 23:12:50: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-15 23:12:50: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-15 23:12:50: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-15 23:12:50: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-15 23:12:50: GLSL program 'default': 3, shaders: 2
+2021-09-15 23:12:50:   VertexShader: 1
+2021-09-15 23:12:50:   FragmentShader: 2
+2021-09-15 23:12:50: Attributes[ 5 ]:
+2021-09-15 23:12:50:   position: 0, FloatVec3, 1
+2021-09-15 23:12:50:   ptSize: 1, Float, 1
+2021-09-15 23:12:50:   texCoords: 2, FloatVec2, 1
+2021-09-15 23:12:50:   normal: 3, FloatVec3, 1
+2021-09-15 23:12:50:   color: 4, FloatVec3, 1
+2021-09-15 23:12:50: Uniforms[ 15 ]:
+2021-09-15 23:12:50:   matrixProjection: 0, FloatMat4, 1
+2021-09-15 23:12:50:   matrixModelView: 1, FloatMat4, 1
+2021-09-15 23:12:50:   sizeMul: 2, Float, 1
+2021-09-15 23:12:50:   lightPosition: 3, FloatVec3, 1
+2021-09-15 23:12:50:   eyePosition: 4, FloatVec3, 1
+2021-09-15 23:12:50:   useTexture: 5, Bool, 1
+2021-09-15 23:12:50:   texSurface: 6, Sampler2D, 1
+2021-09-15 23:12:50:   globalColor: 7, Bool, 1
+2021-09-15 23:12:50:   Ka: 8, FloatVec3, 1
+2021-09-15 23:12:50:   Kd: 9, FloatVec3, 1
+2021-09-15 23:12:50:   useNormal: 10, Bool, 1
+2021-09-15 23:12:50:   Ks: 11, FloatVec3, 1
+2021-09-15 23:12:50:   shininess: 12, Float, 1
+2021-09-15 23:12:50:   globalAmbient: 13, FloatVec3, 1
+2021-09-15 23:12:50:   lightColor: 14, FloatVec3, 1
+
+2021-09-17 01:26:49: .NET Framework 4.6.1 (4.0.30319.42000), OpenTK 3.0.0.0
+2021-09-17 01:26:49: OpenGL version: 4.5.0 - Build 23.20.16.4973, shading language: 4.50 - Build 23.20.16.4973
+2021-09-17 01:26:49: Vendor: Intel, driver: Intel(R) HD Graphics 530
+2021-09-17 01:26:49: Max-vertices: 1048576, max-indices: 1048576, extensions: 223
+2021-09-17 01:26:49: GLSL program 'default': 3, shaders: 2
+2021-09-17 01:26:49:   VertexShader: 1
+2021-09-17 01:26:49:   FragmentShader: 2
+2021-09-17 01:26:49: Attributes[ 5 ]:
+2021-09-17 01:26:49:   position: 0, FloatVec3, 1
+2021-09-17 01:26:49:   ptSize: 1, Float, 1
+2021-09-17 01:26:49:   texCoords: 2, FloatVec2, 1
+2021-09-17 01:26:49:   normal: 3, FloatVec3, 1
+2021-09-17 01:26:49:   color: 4, FloatVec3, 1
+2021-09-17 01:26:49: Uniforms[ 15 ]:
+2021-09-17 01:26:49:   matrixProjection: 0, FloatMat4, 1
+2021-09-17 01:26:49:   matrixModelView: 1, FloatMat4, 1
+2021-09-17 01:26:49:   sizeMul: 2, Float, 1
+2021-09-17 01:26:49:   lightPosition: 3, FloatVec3, 1
+2021-09-17 01:26:49:   eyePosition: 4, FloatVec3, 1
+2021-09-17 01:26:49:   useTexture: 5, Bool, 1
+2021-09-17 01:26:49:   texSurface: 6, Sampler2D, 1
+2021-09-17 01:26:49:   globalColor: 7, Bool, 1
+2021-09-17 01:26:49:   Ka: 8, FloatVec3, 1
+2021-09-17 01:26:49:   Kd: 9, FloatVec3, 1
+2021-09-17 01:26:49:   useNormal: 10, Bool, 1
+2021-09-17 01:26:49:   Ks: 11, FloatVec3, 1
+2021-09-17 01:26:49:   shininess: 12, Float, 1
+2021-09-17 01:26:49:   globalAmbient: 13, FloatVec3, 1
+2021-09-17 01:26:49:   lightColor: 14, FloatVec3, 1
